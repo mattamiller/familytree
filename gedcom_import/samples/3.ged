@@ -1,0 +1,1478 @@
+0 HEAD
+1 CHAR UTF-8
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P1@ INDI 
+1 BIRT 
+2 DATE 1968
+1 SEX F
+1 NAME Kelly /Fulton/
+1 FAMC @F2@
+1 FAMS @F13@
+0 @P2@ INDI 
+1 SEX M
+1 BIRT 
+2 PLAC Wilmington, New Castle, Delaware, USA
+1 NAME Edward Thompson /Fulton/ Jr
+1 FAMC @F3@
+1 FAMS @F2@
+0 @P3@ INDI 
+1 BIRT 
+2 DATE 16 Dec 2004
+2 PLAC Las Vegas, Clark, Nevada, USA
+2 SOUR @S1606227641@
+3 _APID 1,8998::612567
+1 NAME Alexander James /Fulton/
+2 SOUR @S1606227641@
+3 _APID 1,8998::612567
+1 SEX M
+1 FAMC @F13@
+0 @P4@ INDI 
+1 DEAT 
+2 DATE 1991
+2 PLAC Christiana, new castle, delaware
+1 BIRT 
+2 DATE 1938
+2 PLAC Wilmington, New Castle, Delaware, USA
+1 NAME Barbara Ann /Gregg/
+1 SEX F
+1 RESI 
+2 DATE 1968
+1 FAMC @F14@
+1 FAMS @F2@
+0 @P5@ INDI 
+1 BIRT 
+2 PLAC Wilmington, New Castle, Delaware, USA
+1 SEX M
+1 NAME Robert Michael /Fulton/
+1 FAMC @F2@
+0 @P6@ INDI 
+1 BIRT 
+2 PLAC Wilmington, New Castle, Delaware, USA
+1 SEX M
+1 NAME Edward Thompson /Fulton/ iii
+1 FAMC @F2@
+0 @P7@ INDI 
+1 BIRT 
+2 DATE 18 October 1902
+2 PLAC Wilmington, New Castle County, Delaware, USA
+2 SOUR @S1605354342@
+3 _APID 1,60525::51832244
+2 SOUR @S1606182841@
+3 PAGE Delaware Public Archives; Dover, Delaware; Collection Number: Birth Records - 74; Roll Number: 74
+3 _APID 1,1672::88783
+1 NAME Burton K. /Gregg/
+2 SOUR @S-1632309471@
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=usdirectories&h=1045233053&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Residence date:  1940 Residence place:  Wilmington, Delaware, USA
+3 _APID 1,2469::1045233053
+2 SOUR @S1605354342@
+3 _APID 1,60525::51832244
+2 SOUR @S1606182841@
+3 PAGE Delaware Public Archives; Dover, Delaware; Collection Number: Birth Records - 74; Roll Number: 74
+3 _APID 1,1672::88783
+1 DEAT 
+2 DATE May 1967
+2 SOUR @S1605354342@
+3 _APID 1,60525::51832244
+1 BURI 
+2 PLAC Wilmington, New Castle County, Delaware, USA
+2 SOUR @S1605354342@
+3 _APID 1,60525::51832244
+1 RESI 
+2 DATE 1940
+2 PLAC Wilmington, Delaware, USA
+2 SOUR @S-1632309471@
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=usdirectories&h=1045233053&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Residence date:  1940 Residence place:  Wilmington, Delaware, USA
+3 _APID 1,2469::1045233053
+1 SEX M
+1 RESI 
+2 DATE 1938
+2 PLAC Wilmington, New Castle, Delaware, USA
+1 FAMC @F8@
+1 FAMS @F1@
+1 FAMS @F14@
+0 @P8@ INDI 
+1 BIRT 
+2 DATE 19 June 1858
+2 PLAC Wilmington, New Castle County, Delaware, USA
+2 SOUR @S1605354342@
+3 _APID 1,60525::47587954
+1 BURI 
+2 PLAC Wilmington, New Castle County, Delaware, USA
+2 SOUR @S1605354342@
+3 _APID 1,60525::47587954
+1 DEAT 
+2 DATE 29 September 1943
+2 PLAC Wilmington, New Castle County, Delaware, USA
+2 SOUR @S1605354342@
+3 _APID 1,60525::47587954
+1 NAME Adelaide Simpers /Gregg/
+2 SOUR @S1605354342@
+3 _APID 1,60525::47587954
+1 SEX F
+1 FAMS @F8@
+0 @P9@ INDI 
+1 BURI 
+2 PLAC Wilmington, New Castle County, Delaware, USA
+2 SOUR @S1605354342@
+3 _APID 1,60525::47587896
+1 DEAT 
+2 DATE 21 November 1916
+2 PLAC Wilmington, New Castle County, Delaware, USA
+2 SOUR @S1605354342@
+3 _APID 1,60525::47587896
+1 BIRT 
+2 DATE 5 February 1857
+2 PLAC Delaware, USA
+2 SOUR @S1605354342@
+3 _APID 1,60525::47587896
+1 NAME Harry Dure /Gregg/
+2 SOUR @S1605354342@
+3 _APID 1,60525::47587896
+1 SEX M
+1 FAMS @F8@
+0 @P10@ INDI 
+1 NAME Donald /Gregg/
+1 FAMC @F1@
+0 @P11@ INDI 
+1 BIRT 
+2 DATE 23 Jan 1911
+2 PLAC Woodlawn Can, Virginia
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454414&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1911 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454414
+2 SOUR @S1605354342@
+3 _APID 1,60525::114691392
+2 SOUR @S-1632299709@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards for Fourth Registration for Delaware, 04/27/1942 - 04/27/1942; NAI Number: 563726; Record Group Title: Records of th
+4 CONC e Selective Service System; Record Group Number: 147
+3 _APID 1,1002::34989
+2 SOUR @S1605888589@
+3 PAGE Year: 1920; Census Place: Piper Gap, Carroll, Virginia; Roll: T625_1883; Page: 7B; Enumeration District: 12; Image: 976
+3 _APID 1,6061::69913277
+2 SOUR @S-1632305079@
+3 PAGE Number: 221-16-8163; Issue State: Delaware; Issue Date: Before 1951
+3 _APID 1,3693::23797614
+2 SOUR @S1606230714@
+3 _APID 1,60901::39326201
+1 DEAT 
+2 DATE 30 Apr 1994
+2 PLAC Newark, New Castle, Delaware, USA
+2 SOUR @S1605354342@
+3 _APID 1,60525::114691392
+2 SOUR @S-1632305079@
+3 PAGE Number: 221-16-8163; Issue State: Delaware; Issue Date: Before 1951
+3 _APID 1,3693::23797614
+2 SOUR @S1606230714@
+3 _APID 1,60901::39326201
+1 NAME Alma Williams /Gregg/
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454414&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1911 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454414
+2 SOUR @S1605354342@
+3 _APID 1,60525::114691392
+2 SOUR @S-1632299709@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards for Fourth Registration for Delaware, 04/27/1942 - 04/27/1942; NAI Number: 563726; Record Group Title: Records of th
+4 CONC e Selective Service System; Record Group Number: 147
+3 _APID 1,1002::34989
+2 SOUR @S1605888589@
+3 PAGE Year: 1920; Census Place: Piper Gap, Carroll, Virginia; Roll: T625_1883; Page: 7B; Enumeration District: 12; Image: 976
+3 _APID 1,6061::69913277
+2 SOUR @S1606230714@
+3 _APID 1,60901::39326201
+1 RESI Marital Status: WidowedMarital Status: Widow; Relation to Head of House: Head
+2 DATE 1920
+2 PLAC Piper Gap, Carroll, Virginia, USA
+2 SOUR @S1605888589@
+3 PAGE Year: 1920; Census Place: Piper Gap, Carroll, Virginia; Roll: T625_1883; Page: 7B; Enumeration District: 12; Image: 976
+3 _APID 1,6061::69913277
+1 RESI 
+2 DATE 1942
+2 PLAC New Castle, Delaware, USA
+2 SOUR @S-1632299709@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards for Fourth Registration for Delaware, 04/27/1942 - 04/27/1942; NAI Number: 563726; Record Group Title: Records of th
+4 CONC e Selective Service System; Record Group Number: 147
+3 _APID 1,1002::34989
+1 BURI 
+2 PLAC Wilmington, New Castle County, Delaware, USA
+2 SOUR @S1605354342@
+3 _APID 1,60525::114691392
+1 RESI 
+2 DATE 1930
+2 PLAC District 8, New Castle, Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454414&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1911 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454414
+1 SEX F
+1 RESI 
+2 DATE 1938
+2 PLAC Wilmington, New Castle, Delaware, USA
+1 FAMC @F6@
+1 FAMS @F1@
+0 @P12@ INDI 
+1 RESI 
+2 DATE 1942
+2 PLAC Wilmington, Delaware, USA
+2 SOUR @S-1632309471@
+3 _APID 1,2469::1145555463
+1 NAME Dora /Williams/
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454413&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1884 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454413
+2 SOUR @S-1632309471@
+3 _APID 1,2469::1145555463
+1 BIRT 
+2 DATE abt 1884
+2 PLAC Virginia
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454413&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1884 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454413
+1 RESI 
+2 DATE 1930
+2 PLAC District 8, New Castle, Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454413&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1884 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454413
+1 SEX F
+1 FAMS @F6@
+0 @P13@ INDI 
+1 RESI 
+2 DATE 1942
+2 PLAC Wilmington, Delaware, USA
+2 SOUR @S-1632299709@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards for Fourth Registration for Delaware, 04/27/1942 - 04/27/1942; NAI Number: 563726; Record Group Title: Records of th
+4 CONC e Selective Service System; Record Group Number: 147
+3 _APID 1,1002::34989
+2 SOUR @S-1632309471@
+3 _APID 1,2469::1044772256
+1 NAME Doc M /Williams/
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454412&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1878 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454412
+2 SOUR @S-1632299709@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards for Fourth Registration for Delaware, 04/27/1942 - 04/27/1942; NAI Number: 563726; Record Group Title: Records of th
+4 CONC e Selective Service System; Record Group Number: 147
+3 _APID 1,1002::34989
+2 SOUR @S-1632309471@
+3 _APID 1,2469::1044772256
+1 BIRT 
+2 DATE abt 1878
+2 PLAC Virginia
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454412&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1878 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454412
+2 SOUR @S-1632299709@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards for Fourth Registration for Delaware, 04/27/1942 - 04/27/1942; NAI Number: 563726; Record Group Title: Records of th
+4 CONC e Selective Service System; Record Group Number: 147
+3 _APID 1,1002::34989
+1 RESI 
+2 DATE 1930
+2 PLAC District 8, New Castle, Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454412&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1878 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454412
+1 SEX M
+1 FAMC @F15@
+1 FAMS @F6@
+0 @P14@ INDI 
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1930
+2 PLAC Kennett Square, Chester, Pennsylvania
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Kennett Square, Chester, Pennsylvania; Roll: 2019; Page: 18B; Enumeration District: 0044; Image: 1021.0; FHL microfilm: 2341753
+3 _APID 1,6224::50474798
+1 BIRT 
+2 DATE abt 1921
+2 PLAC Pennsylvania
+2 SOUR @S-1632305079@
+3 PAGE Number: 182-18-9634; Issue State: Pennsylvania; Issue Date: Before 1951
+3 _APID 1,3693::20889251
+2 SOUR @S1605354342@
+3 _APID 1,60525::89008955
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Kennett Square, Chester, Pennsylvania; Roll: 2019; Page: 18B; Enumeration District: 0044; Image: 1021.0; FHL microfilm: 2341753
+3 _APID 1,6224::50474798
+1 NAME Lillian A /Major/
+2 SOUR @S-1632305079@
+3 PAGE Number: 182-18-9634; Issue State: Pennsylvania; Issue Date: Before 1951
+3 _APID 1,3693::20889251
+2 SOUR @S1605354342@
+3 _APID 1,60525::89008955
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Kennett Square, Chester, Pennsylvania; Roll: 2019; Page: 18B; Enumeration District: 0044; Image: 1021.0; FHL microfilm: 2341753
+3 _APID 1,6224::50474798
+1 DEAT 
+2 DATE Apr 1979
+2 PLAC Hockessin, New Castle, Delaware, United States of America
+2 SOUR @S-1632305079@
+3 PAGE Number: 182-18-9634; Issue State: Pennsylvania; Issue Date: Before 1951
+3 _APID 1,3693::20889251
+2 SOUR @S1605354342@
+3 _APID 1,60525::89008955
+1 BURI 
+2 PLAC Wilmington, New Castle County, Delaware, USA
+2 SOUR @S1605354342@
+3 _APID 1,60525::89008955
+1 SEX F
+1 FAMC @F10@
+1 FAMS @F3@
+0 @P15@ INDI 
+1 BIRT 
+2 DATE 1918
+2 PLAC Wilmington, New Castle, Delaware, USA
+2 SOUR @S-1632305130@
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=websearch-3895&h=92088&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  16 Jun 1920 Birth place:   Death date:  10 Apr 1979 Death place:  
+3 _APID 1,70503::92088
+2 SOUR @S-1632305079@
+3 PAGE Number: 182-18-9634; Issue State: Pennsylvania; Issue Date: Before 1951.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=ssdi&h=20889251&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  16 Jun 1920 Birth place:   Death date:  Apr 1979 Death place:  Hockessin, New Castle, Delaware, United States of America
+3 _APID 1,3693::20889251
+2 SOUR @S-1632305130@
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=websearch-3895&h=92010&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  1918 Birth place:   Death date:  2003 Death place:  
+3 _APID 1,70503::92010
+2 SOUR @S-1632305079@
+3 PAGE Number: ; Issue State: Delaware; Issue Date: Before 1951.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=ssdi&h=70948268&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  21 Aug 1918 Birth place:   Death date:  20 Jun 2003 Death place:  Hockessin, New Castle, Delaware, United States of America
+3 _APID 1,3693::70948268
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314125&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1919 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314125
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 1930
+2 PLAC Christana, New Castle, Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314125&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1919 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314125
+1 NAME Edward T /Fulton/
+2 SOUR @S-1632305130@
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=websearch-3895&h=92088&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  16 Jun 1920 Birth place:   Death date:  10 Apr 1979 Death place:  
+3 _APID 1,70503::92088
+2 SOUR @S-1632305079@
+3 PAGE Number: 182-18-9634; Issue State: Pennsylvania; Issue Date: Before 1951.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=ssdi&h=20889251&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  16 Jun 1920 Birth place:   Death date:  Apr 1979 Death place:  Hockessin, New Castle, Delaware, United States of America
+3 _APID 1,3693::20889251
+2 SOUR @S-1632305130@
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=websearch-3895&h=92010&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  1918 Birth place:   Death date:  2003 Death place:  
+3 _APID 1,70503::92010
+2 SOUR @S-1632305079@
+3 PAGE Number: ; Issue State: Delaware; Issue Date: Before 1951.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=ssdi&h=70948268&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  21 Aug 1918 Birth place:   Death date:  20 Jun 2003 Death place:  Hockessin, New Castle, Delaware, United States of America
+3 _APID 1,3693::70948268
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314125&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1919 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314125
+1 DEAT 
+2 DATE 2003
+2 PLAC Hockessin, New Castle, Delaware, USA
+2 SOUR @S-1632305130@
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=websearch-3895&h=92088&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  16 Jun 1920 Birth place:   Death date:  10 Apr 1979 Death place:  
+3 _APID 1,70503::92088
+2 SOUR @S-1632305079@
+3 PAGE Number: 182-18-9634; Issue State: Pennsylvania; Issue Date: Before 1951.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=ssdi&h=20889251&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  16 Jun 1920 Birth place:   Death date:  Apr 1979 Death place:  Hockessin, New Castle, Delaware, United States of America
+3 _APID 1,3693::20889251
+2 SOUR @S-1632305130@
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=websearch-3895&h=92010&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  1918 Birth place:   Death date:  2003 Death place:  
+3 _APID 1,70503::92010
+2 SOUR @S-1632305079@
+3 PAGE Number: ; Issue State: Delaware; Issue Date: Before 1951.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=ssdi&h=70948268&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  21 Aug 1918 Birth place:   Death date:  20 Jun 2003 Death place:  Hockessin, New Castle, Delaware, United States of America
+3 _APID 1,3693::70948268
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F3@
+0 @P16@ INDI 
+1 BIRT 
+2 DATE 4 Nov 1902
+2 PLAC Yorklyn, New Castle, Delaware, USA
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314124&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1904 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314124
+1 DEAT 
+2 DATE 18 Jan 1969
+2 PLAC Wilmington, New Castle, Delaware, USA
+1 NAME Elizabeth A /Gebhart/
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314124&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1904 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314124
+1 RESI 
+2 DATE 1930
+2 PLAC Christana, New Castle, Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314124&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1904 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314124
+1 SEX F
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Trees
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=16
+1 FAMC @F9@
+1 FAMS @F4@
+0 @P17@ INDI 
+1 BIRT 
+2 DATE 15 Jul 1896
+2 PLAC Mount Cuba, Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314123&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1896 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314123
+2 SOUR @S-1632299709@
+3 PAGE Roll: ; Local board: New Castle , Delaware.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=wwiidraft&h=1863687&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  15 Jul 1896 Birth place:  Mount Cuba, Delaware Residence date:   Residence place:  New Castle, Delaware
+3 _APID 1,1002::1863687
+2 SOUR @S1606016511@
+3 _APID 1,1673::241340
+1 DEAT 
+2 DATE 27 November 1984
+2 PLAC Hockessin, New Castle, Delaware, United States of America
+1 NAME John Raymond /Fulton/
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314123&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1896 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314123
+2 SOUR @S-1632299709@
+3 PAGE Roll: ; Local board: New Castle , Delaware.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=wwiidraft&h=1863687&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  15 Jul 1896 Birth place:  Mount Cuba, Delaware Residence date:   Residence place:  New Castle, Delaware
+3 _APID 1,1002::1863687
+2 SOUR @S1606016511@
+3 _APID 1,1673::241340
+1 RESI 
+2 PLAC New Castle, Delaware, United States
+2 SOUR @S1606016511@
+3 _APID 1,1673::241340
+1 MARR 
+2 DATE 27 Mar 1895
+2 SOUR @S1606016511@
+3 _APID 1,1673::241340
+1 RESI 
+2 PLAC New Castle, Delaware
+2 SOUR @S-1632299709@
+3 PAGE Roll: ; Local board: New Castle , Delaware.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=wwiidraft&h=1863687&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  15 Jul 1896 Birth place:  Mount Cuba, Delaware Residence date:   Residence place:  New Castle, Delaware
+3 _APID 1,1002::1863687
+1 RESI 
+2 DATE 1930
+2 PLAC Christana, New Castle, Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314123&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1896 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314123
+1 SEX M
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=17
+1 FAMC @F7@
+1 FAMS @F4@
+0 @P18@ INDI 
+1 BIRT 
+2 DATE abt 1901
+2 PLAC Pennsylvania
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Kennett Square, Chester, Pennsylvania; Roll: 2019; Page: 18B; Enumeration District: 0044; Image: 1021.0; FHL microfilm: 2341753
+3 _APID 1,6224::50474799
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1930
+2 PLAC Kennett Square, Chester, Pennsylvania
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Kennett Square, Chester, Pennsylvania; Roll: 2019; Page: 18B; Enumeration District: 0044; Image: 1021.0; FHL microfilm: 2341753
+3 _APID 1,6224::50474799
+1 NAME Violet  /Buckley/
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Kennett Square, Chester, Pennsylvania; Roll: 2019; Page: 18B; Enumeration District: 0044; Image: 1021.0; FHL microfilm: 2341753
+3 _APID 1,6224::50474799
+1 DEAT 
+2 PLAC Pennsylvania, USA
+1 SEX F
+1 FAMS @F10@
+0 @P19@ INDI 
+1 BIRT 
+2 DATE 8 Aug 1899
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Kennett Square, Chester, Pennsylvania; Roll: 2019; Page: 18B; Enumeration District: 0044; Image: 1021.0; FHL microfilm: 2341753
+3 _APID 1,6224::50474769
+2 SOUR @S1606223491@
+3 PAGE Registration State: Pennsylvania; Registration County: Delaware; Roll: 1877947; Draft Board: 3
+3 _APID 1,6482::71907097
+1 RESI 
+2 DATE 1917-1918
+2 PLAC Delaware, Pennsylvania
+2 SOUR @S1606223491@
+3 PAGE Registration State: Pennsylvania; Registration County: Delaware; Roll: 1877947; Draft Board: 3
+3 _APID 1,6482::71907097
+1 NAME Ralph Hunt /Major/
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Kennett Square, Chester, Pennsylvania; Roll: 2019; Page: 18B; Enumeration District: 0044; Image: 1021.0; FHL microfilm: 2341753
+3 _APID 1,6224::50474769
+2 SOUR @S1606223491@
+3 PAGE Registration State: Pennsylvania; Registration County: Delaware; Roll: 1877947; Draft Board: 3
+3 _APID 1,6482::71907097
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 1930
+2 PLAC Kennett Square, Chester, Pennsylvania
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Kennett Square, Chester, Pennsylvania; Roll: 2019; Page: 18B; Enumeration District: 0044; Image: 1021.0; FHL microfilm: 2341753
+3 _APID 1,6224::50474769
+1 SEX M
+1 FAMS @F10@
+0 @P20@ INDI 
+1 DEAT 
+2 DATE 1953
+2 PLAC Wilmington, New Castle, Delaware, USA
+1 BIRT 
+2 DATE December 1873
+2 PLAC Wooddale, New Castle Co., Delaware
+2 SOUR @S1605888589@
+3 PAGE Year: 1920; Census Place: Representative District 8, New Castle, Delaware; Roll: T625_203; Page: 13A; Enumeration District: 155; Image: 980
+3 _APID 1,6061::72374052
+2 SOUR @S1606223982@
+3 _APID 1,1508::142707
+1 NAME Jennie Jackson /Springer/
+2 SOUR @S1605888589@
+3 PAGE Year: 1920; Census Place: Representative District 8, New Castle, Delaware; Roll: T625_203; Page: 13A; Enumeration District: 155; Image: 980
+3 _APID 1,6061::72374052
+2 SOUR @S1606223982@
+3 _APID 1,1508::142707
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1920
+2 PLAC Representative District 8, New Castle, Delaware, USA
+2 SOUR @S1605888589@
+3 PAGE Year: 1920; Census Place: Representative District 8, New Castle, Delaware; Roll: T625_203; Page: 13A; Enumeration District: 155; Image: 980
+3 _APID 1,6061::72374052
+1 SEX F
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=20
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=b4174d57-4d53-4e74-8ca3-050a12372578&tid=43184894&pid=20
+2 FORM jpg
+2 TITL Jennie
+1 FAMS @F7@
+1 FAMS @F12@
+0 @P21@ INDI 
+1 BIRT 
+2 DATE Sept. 1867
+2 PLAC Pennsylvania, USA
+1 DEAT 
+2 DATE 1941
+2 PLAC Wilmington, New Castle, Delaware, USA
+1 NAME John J. /Fulton/
+1 SEX M
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=21
+1 FAMC @F11@
+1 FAMS @F7@
+0 @P22@ INDI 
+1 DEAT 
+2 DATE 2012
+1 BIRT 
+2 DATE 1925
+2 PLAC Delaware
+1 NAME Louise /Fulton/
+1 SEX F
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=22
+1 FAMC @F4@
+0 @P23@ INDI 
+1 DEAT 
+2 DATE 2012
+1 BIRT 
+2 DATE 1920
+2 PLAC Delaware
+1 NAME John R /Fulton, Jr/
+1 SEX M
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=23
+1 FAMC @F4@
+0 @P24@ INDI 
+1 BIRT 
+2 DATE 1927-12-29
+2 PLAC Yorklyn, Delaware, USA
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86313875&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1928 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86313875
+2 SOUR @S-1632296539@
+3 PAGE Newspaper: ; Publication Date: 22 Jan 2012; Publication Place: New Castle , Delaware , USA.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=web-obituary&h=90025908&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  1927-12-29 Birth place:  Yorklyn, Delaware, USA Death date:  2012-01-18 Death place:  
+3 _APID 1,7545::90025908
+1 DEAT 
+2 DATE 2012-01-18
+2 PLAC Wilmington, New Castle, Delaware, USA
+2 SOUR @S-1632296539@
+3 PAGE Newspaper: ; Publication Date: 22 Jan 2012; Publication Place: New Castle , Delaware , USA.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=web-obituary&h=90025908&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  1927-12-29 Birth place:  Yorklyn, Delaware, USA Death date:  2012-01-18 Death place:  
+3 _APID 1,7545::90025908
+1 NAME Howard /Fulton/
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86313875&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1928 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86313875
+2 SOUR @S-1632296539@
+3 PAGE Newspaper: ; Publication Date: 22 Jan 2012; Publication Place: New Castle , Delaware , USA.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=web-obituary&h=90025908&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  1927-12-29 Birth place:  Yorklyn, Delaware, USA Death date:  2012-01-18 Death place:  
+3 _APID 1,7545::90025908
+1 RESI 
+2 DATE 1930
+2 PLAC Christana, New Castle, Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86313875&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1928 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86313875
+1 SEX M
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=24
+1 FAMC @F4@
+0 @P25@ INDI 
+1 BIRT 
+2 DATE abt 1925
+2 PLAC Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314129&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1925 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314129
+1 RESI 
+2 DATE 1930
+2 PLAC Christana, New Castle, Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314129&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1925 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314129
+1 NAME Louise /Fulton/
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314129&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1925 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314129
+1 SEX F
+1 FAMC @F4@
+0 @P26@ INDI 
+1 BIRT 
+2 DATE abt 1923
+2 PLAC Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314128&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1923 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314128
+1 RESI 
+2 DATE 1930
+2 PLAC Christana, New Castle, Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314128&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1923 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314128
+1 NAME May E /Fulton/
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314128&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1923 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314128
+1 SEX F
+1 FAMC @F4@
+0 @P27@ INDI 
+1 BIRT 
+2 DATE abt 1920
+2 PLAC Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314126&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1920 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314126
+1 RESI 
+2 DATE 1930
+2 PLAC Christana, New Castle, Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314126&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1920 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314126
+1 NAME John R /Fulton/
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: Christana, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=86314126&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1920 Birth place:  Delaware Residence date:  1930 Residence place:  Christana, New Castle, Delaware
+3 _APID 1,6224::86314126
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F5@
+0 @P28@ INDI 
+1 BIRT 
+2 DATE 9 Dec 1867
+2 PLAC Yorklyn, New Castle, Delaware, USA
+2 SOUR @S1606016511@
+3 _APID 1,1673::109688
+1 RESI 
+2 PLAC New Castle, Delaware, United States
+2 SOUR @S1606016511@
+3 _APID 1,1673::109688
+1 NAME Elizabeth Ann /Chandler/
+2 SOUR @S1606016511@
+3 _APID 1,1673::109688
+1 DEAT 
+2 DATE 21 Nov 1910
+2 PLAC Wilmington, New Castle, Delaware, USA
+1 SEX F
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=28
+1 FAMS @F9@
+0 @P29@ INDI 
+1 BIRT 
+2 DATE 9 Apr 1863
+2 PLAC Hockessin, New Castle, Delaware, USA
+1 DEAT 
+2 DATE 27 May 1950
+2 PLAC Los Angeles, Los Angeles, California, USA
+1 NAME James Alfred /Gebhart/
+1 SEX M
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=29
+1 FAMS @F9@
+0 @P30@ INDI 
+1 NAME Mabel
+1 SEX F
+1 FAMS @F5@
+0 @P31@ INDI 
+1 NAME /Williams/
+1 SEX M
+1 FAMS @F15@
+0 @P32@ INDI 
+1 BIRT 
+2 DATE abt 1924
+2 PLAC Virginia
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454417&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1924 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454417
+1 RESI 
+2 DATE 1930
+2 PLAC District 8, New Castle, Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454417&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1924 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454417
+1 NAME Kanawha /Williams/
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454417&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1924 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454417
+1 SEX M
+1 FAMC @F6@
+0 @P33@ INDI 
+1 BIRT 
+2 DATE abt 1921
+2 PLAC Virginia
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454416&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1921 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454416
+1 RESI 
+2 DATE 1930
+2 PLAC District 8, New Castle, Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454416&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1921 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454416
+1 NAME Howard /Williams/
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454416&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1921 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454416
+1 SEX M
+1 FAMC @F6@
+0 @P34@ INDI 
+1 BIRT 
+2 DATE abt 1914
+2 PLAC Virginia
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454415&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1914 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454415
+1 RESI 
+2 DATE 1930
+2 PLAC District 8, New Castle, Delaware
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454415&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1914 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454415
+1 NAME Maragrt /Williams/
+2 SOUR @S-1632303816@
+3 PAGE Year: 1930; Census Place: District 8, New Castle, Delaware; Roll: ; Page: ; Enumeration District: ; Image: .
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1930usfedcen&h=121454415&ti=0&indiv=try&gss=pt
+3 NOTE 
+3 DATA
+4 TEXT Birth date:  abt 1914 Birth place:  Virginia Residence date:  1930 Residence place:  District 8, New Castle, Delaware
+3 _APID 1,6224::121454415
+1 SEX F
+1 FAMC @F6@
+0 @P35@ INDI 
+1 SEX F
+1 NAME Elizabeth  /Fulton/
+1 FAMS @F11@
+0 @P36@ INDI 
+1 SEX M
+1 NAME William /Fulton/
+1 FAMS @F11@
+0 @P37@ INDI 
+1 DEAT 
+2 DATE 12 Dec 1986
+2 PLAC New Castle, New Castle, Delaware, USA
+1 BIRT 
+2 DATE 31 Jul 1900
+2 PLAC Yorklyn, New Castle, Delaware, USA
+1 NAME James F /Gebhart/
+1 SEX M
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=37
+1 FAMC @F9@
+0 @P38@ INDI 
+1 DEAT 
+2 DATE 19 Mar 1975
+2 PLAC Hockessin, New Castle, Delaware, USA
+1 BIRT 
+2 DATE 16 Nov 1892
+2 PLAC Elsmere, New Castle, Delaware, USA
+1 NAME Laura Belle /Gebhart/
+1 SEX F
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=38
+1 FAMC @F9@
+0 @P39@ INDI 
+1 DEAT 
+2 DATE 18 Dec 1995
+2 PLAC Wilmington, New Castle, Delaware, USA
+1 BIRT 
+2 DATE 7 Jun 1909
+2 PLAC Wilmington, New Castle, Delaware, USA
+1 NAME Thomas Pyle /Gebhart/
+1 SEX M
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=39
+1 FAMC @F9@
+0 @P40@ INDI 
+1 BIRT 
+2 DATE 19 Mar 1887
+2 PLAC Kennett Square,Chester,Pennsylvania,USA
+1 DEAT 
+2 DATE 1964-02-12
+2 PLAC New Castle,New Castle,Delaware,USA
+1 NAME Chandler Harlan /Gebhart/
+1 SEX M
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=40
+1 FAMC @F9@
+0 @P41@ INDI 
+1 BIRT 
+2 DATE Oct 23, 1889
+2 PLAC Elsmere DE
+1 DEAT 
+2 DATE 1890
+2 PLAC Elsmere DE
+1 NAME Enoch Walter /Gebhart/
+1 SEX M
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=41
+1 FAMC @F9@
+0 @P42@ INDI 
+1 DEAT 
+2 DATE Mar 1960
+2 PLAC Nashville, Davidson, Tennessee, United States
+1 BIRT 
+2 DATE 28 May 1906
+2 PLAC Talleyville, New Castle, Delaware, United States
+1 NAME Charles Addison /Gebhart/
+1 SEX M
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=42
+1 FAMC @F9@
+0 @P43@ INDI 
+1 BIRT 
+2 DATE 12 Oct 1894
+2 PLAC Elsmere, New Castle, Delaware, USA
+1 DEAT 
+2 DATE 16 Oct 1975
+2 PLAC Wilmington, New Castle, Delaware, United States
+1 NAME Marguerite Emma /Gebhart/
+1 SEX F
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=43
+1 FAMC @F9@
+0 @P44@ INDI 
+1 DEAT 
+2 PLAC Neptune City, Monmouth, New Jersey, United States
+1 BIRT 
+2 DATE 1 Aug 1888
+2 PLAC Elsmere, New Castle, Delaware, USA
+1 NAME Myrtle Ella /Gebhart/
+1 SEX F
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=44
+1 FAMC @F9@
+0 @P45@ INDI 
+1 DEAT 
+2 DATE 1941
+1 BIRT 
+2 DATE Sep 1868
+2 PLAC Pennsylvania
+1 NAME John /Fulton/
+1 SEX M
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=45
+1 FAMS @F12@
+0 @P46@ INDI 
+1 DEAT 
+2 DATE 27 November 1984
+2 PLAC Hockessin, New Castle, Delaware, United States of America
+1 BIRT 
+2 DATE 15 Jul 1896
+2 PLAC Delaware, United States
+1 NAME John Raymond /Fulton/
+1 SEX M
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=46
+1 FAMC @F12@
+0 @P47@ INDI 
+1 BIRT 
+2 DATE abt 1910
+2 PLAC Delaware
+2 SOUR @S1605888589@
+3 PAGE Year: 1920; Census Place: Representative District 8, New Castle, Delaware; Roll: T625_203; Page: 13A; Enumeration District: 155; Image: 980
+3 _APID 1,6061::72374055
+2 SOUR @S-1632305079@
+3 PAGE Number: 222-20-3244; Issue State: Delaware; Issue Date: 1951-1952
+3 _APID 1,3693::20885632
+1 DEAT 
+2 DATE 17 July 1972
+2 PLAC Wilmington, New Castle, Delaware, United States of America
+2 SOUR @S-1632305079@
+3 PAGE Number: 222-20-3244; Issue State: Delaware; Issue Date: 1951-1952
+3 _APID 1,3693::20885632
+1 NAME Edward S /Fulton/
+2 SOUR @S1605888589@
+3 PAGE Year: 1920; Census Place: Representative District 8, New Castle, Delaware; Roll: T625_203; Page: 13A; Enumeration District: 155; Image: 980
+3 _APID 1,6061::72374055
+2 SOUR @S-1632305079@
+3 PAGE Number: 222-20-3244; Issue State: Delaware; Issue Date: 1951-1952
+3 _APID 1,3693::20885632
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 1920
+2 PLAC Representative District 8, New Castle, Delaware, USA
+2 SOUR @S1605888589@
+3 PAGE Year: 1920; Census Place: Representative District 8, New Castle, Delaware; Roll: T625_203; Page: 13A; Enumeration District: 155; Image: 980
+3 _APID 1,6061::72374055
+1 SEX M
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=47
+1 FAMC @F12@
+0 @P48@ INDI 
+1 BIRT 
+2 DATE abt 1905
+2 PLAC Delaware
+2 SOUR @S1605888589@
+3 PAGE Year: 1920; Census Place: Representative District 8, New Castle, Delaware; Roll: T625_203; Page: 13A; Enumeration District: 155; Image: 980
+3 _APID 1,6061::72374054
+1 NAME Edna M /Fulton/
+2 SOUR @S1605888589@
+3 PAGE Year: 1920; Census Place: Representative District 8, New Castle, Delaware; Roll: T625_203; Page: 13A; Enumeration District: 155; Image: 980
+3 _APID 1,6061::72374054
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1920
+2 PLAC Representative District 8, New Castle, Delaware, USA
+2 SOUR @S1605888589@
+3 PAGE Year: 1920; Census Place: Representative District 8, New Castle, Delaware; Roll: T625_203; Page: 13A; Enumeration District: 155; Image: 980
+3 _APID 1,6061::72374054
+1 SEX F
+1 SOUR @S-1632290416@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=43184894&pid=48
+1 FAMC @F12@
+0 @F1@ FAM 
+1 HUSB @P7@
+1 WIFE @P11@
+1 CHIL @P10@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2@ FAM 
+1 HUSB @P2@
+1 WIFE @P4@
+1 CHIL @P1@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P5@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P6@
+2 _FREL Natural
+2 _MREL Natural
+0 @F3@ FAM 
+1 HUSB @P15@
+1 WIFE @P14@
+1 CHIL @P2@
+2 _FREL Natural
+2 _MREL Natural
+0 @F4@ FAM 
+1 HUSB @P17@
+1 WIFE @P16@
+1 CHIL @P15@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P23@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P27@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P26@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P22@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P25@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P24@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 2 Apr 1918
+2 PLAC Delaware, USA
+0 @F5@ FAM 
+1 HUSB @P27@
+1 WIFE @P30@
+0 @F6@ FAM 
+1 HUSB @P13@
+1 WIFE @P12@
+1 CHIL @P11@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P34@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P33@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P32@
+2 _FREL Natural
+2 _MREL Natural
+0 @F7@ FAM 
+1 HUSB @P21@
+1 WIFE @P20@
+1 CHIL @P17@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 27 Mar 1895
+2 PLAC Mill Creek, New Castle, Delaware
+2 SOUR @S1606223982@
+3 _APID 1,1508::142707
+0 @F8@ FAM 
+1 HUSB @P9@
+1 WIFE @P8@
+1 CHIL @P7@
+2 _FREL Natural
+2 _MREL Natural
+0 @F9@ FAM 
+1 HUSB @P29@
+1 WIFE @P28@
+1 CHIL @P40@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P44@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P41@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P38@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P43@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P37@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P16@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P42@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P39@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 15 Dec 1885
+2 PLAC Yorklyn, New Castle, Delaware, USA
+2 SOUR @S1606016511@
+3 _APID 1,1673::109688
+0 @F10@ FAM 
+1 HUSB @P19@
+1 WIFE @P18@
+1 CHIL @P14@
+2 _FREL Natural
+2 _MREL Natural
+0 @F11@ FAM 
+1 HUSB @P36@
+1 WIFE @P35@
+1 CHIL @P21@
+2 _FREL Natural
+2 _MREL Natural
+0 @F12@ FAM 
+1 HUSB @P45@
+1 WIFE @P20@
+1 CHIL @P46@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P48@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P47@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1895
+0 @F13@ FAM 
+1 WIFE @P1@
+1 CHIL @P3@
+2 _MREL Natural
+0 @F14@ FAM 
+1 HUSB @P7@
+1 CHIL @P4@
+2 _FREL Natural
+0 @F15@ FAM 
+1 HUSB @P31@
+1 CHIL @P13@
+2 _FREL Natural
+0 @R-1696887286@ REPO
+1 NAME Ancestry.com
+1 ADDR http://www.Ancestry.com
+1 NOTE 
+0 @S-1632309471@ SOUR
+1 REPO @R-1696887286@
+1 TITL U.S. City Directories, 1821-1989 (Beta)
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations, Inc., 2011.Original data - Original sources vary according to directory. The title of the specific directory being viewed is listed at th
+2 CONC e top of the image viewer page.  Check the directory titl
+1 NOTE 
+1 _APID 1,2469::0
+0 @S-1632305130@ SOUR
+1 REPO @R-1696887286@
+1 TITL Web: Delaware, Find A Grave Index, 1710-2011
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations, Inc., 2012.Original data - Find A Grave. Find A Grave. http://www.findagrave.com/cgi-bin/fg.cgi: accessed 22 August 2011.Original data: Fi
+2 CONC nd A Grave. Find A Grave. http://www.findagrave.com/cgi-
+1 NOTE 
+1 _APID 1,70503::0
+0 @S-1632305079@ SOUR
+1 REPO @R-1696887286@
+1 TITL Social Security Death Index
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations Inc, 2011.Original data - Social Security Administration. Social Security Death Index, Master File. Social Security Administration.Origina
+2 CONC l data: Social Security Administration. Social Security D
+1 NOTE 
+1 _APID 1,3693::0
+0 @S-1632303816@ SOUR
+1 REPO @R-1696887286@
+1 TITL 1930 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations Inc, 2002.Original data - United States of America, Bureau of the Census. Fifteenth Census of the United States, 1930. Washington, D.C.: Na
+2 CONC tional Archives and Records Administration, 1930. T626, 
+1 NOTE 
+1 _APID 1,6224::0
+0 @S-1632299709@ SOUR
+1 REPO @R-1696887286@
+1 TITL U.S. World War II Draft Registration Cards, 1942
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations, Inc., 2010.Original data - United States, Selective Service System. Selective Service Registration Cards, World War II: Fourth Registratio
+2 CONC n. National Archives and Records Administration Branch l
+1 NOTE 
+1 _APID 1,1002::0
+0 @S-1632296539@ SOUR
+1 REPO @R-1696887286@
+1 TITL United States Obituary Collection
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations Inc, 2006.Original data - See newspaper information provided with each entry.Original data: See newspaper information provided with each en
+2 CONC try.
+1 NOTE 
+1 _APID 1,7545::0
+0 @S-1632290416@ SOUR
+1 REPO @R-1696887286@
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+1 NOTE This information comes from 1 or more individual Ancestry Family Tree files. This source citation points you to a current version of those files.  Note:  The owners of these tree files may have remove
+2 CONC d or changed information since this source citation was created.
+0 @S1605354342@ SOUR
+1 REPO @R-1696887286@
+1 TITL U.S., Find A Grave Index, 1600s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,60525::0
+0 @S1605888589@ SOUR
+1 REPO @R-1696887286@
+1 TITL 1920 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,6061::0
+0 @S1606016511@ SOUR
+1 REPO @R-1696887286@
+1 TITL Delaware, Marriage Records, 1806-1933
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1673::0
+0 @S1606182841@ SOUR
+1 REPO @R-1696887286@
+1 TITL Delaware, Birth Records, 1800-1932
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1672::0
+0 @S1606223491@ SOUR
+1 REPO @R-1696887286@
+1 TITL U.S., World War I Draft Registration Cards, 1917-1918
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,6482::0
+0 @S1606223982@ SOUR
+1 REPO @R-1696887286@
+1 TITL Delaware, Marriage Records, 1744-1912
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,1508::0
+0 @S1606227641@ SOUR
+1 REPO @R-1696887286@
+1 TITL Nevada, Birth Index, 1975-2012
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,8998::0
+0 @S1606230714@ SOUR
+1 REPO @R-1696887286@
+1 TITL U.S., Social Security Applications and Claims Index, 1936-2007
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,60901::0
+0 TRLR

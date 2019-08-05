@@ -1,0 +1,4582 @@
+0 HEAD
+1 CHAR UTF-8
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P1@ INDI
+1 SEX M
+1 NAME Andrew /McDonough/
+1 FAMC @F2@
+1 FAMS @F1@
+0 @P2@ INDI
+1 SEX F
+1 BIRT
+2 DATE 16 Nov 2007
+2 PLAC Subiaco, Western Australia, Australia
+1 NAME Leah /McDonough/
+1 FAMC @F1@
+0 @P3@ INDI
+1 BIRT
+2 DATE 27 Feb 2005
+1 SEX F
+1 NAME Katelyn /McDonough/
+1 FAMC @F1@
+0 @P4@ INDI
+1 BIRT
+2 DATE 30 Sep 1941
+1 NAME Helen /Bray/
+1 SEX F
+1 FAMC @F3@
+1 FAMS @F2@
+0 @P5@ INDI
+1 BIRT
+2 DATE 28 Apr 1935
+1 DEAT
+2 DATE 23 Aug 1983
+1 SEX M
+1 NAME John /McDonough/
+1 FAMC @F5@
+1 FAMS @F2@
+0 @P6@ INDI
+1 BIRT
+2 DATE 7 Mar 1974
+1 SEX F
+1 NAME Nicole Michelle /Criddle/
+1 FAMC @F8@
+1 FAMS @F1@
+0 @P7@ INDI
+1 NAME Matthew /McDonough/
+1 BIRT
+2 DATE 10 September 1975
+2 PLAC Perth, Western Australia, Australia
+1 SEX M
+1 FAMC @F2@
+0 @P8@ INDI
+1 SEX M
+1 NAME Nicholas /McDonough/
+1 BIRT
+2 DATE 14 September 1972
+2 PLAC Perth, Western Australia, Australia
+1 FAMC @F2@
+1 FAMS @F16@
+0 @P9@ INDI
+1 IMMI Arrived in melbourne from london on the ship ormonde
+2 DATE 26 Jun 1928
+2 PLAC Melbourne, Victoria, Australia
+1 BIRT
+2 DATE 1906
+1 DEAT
+2 DATE 1989
+1 SEX F
+1 NAME Kathleen /Hannigan/
+1 RESI http://www.census.nationalarchives.ie/pages/1911/Sligo/Rossinver_East/Gortnahoula/907814/
+2 DATE 1911
+2 PLAC Rossinver East, Sligo
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=ad91cce8-27de-44d0-a348-f06f6a8821e4&tid=10908437&pid=9
+2 FORM htm
+2 TITL _
+1 FAMC @F11@
+1 FAMS @F5@
+0 @P10@ INDI
+1 BIRT
+2 DATE 21 May 1902
+2 PLAC West Derby, Lancashire
+2 SOUR @S-1782924844@
+3 PAGE Liverpool, England, Catholic Baptisms, 1802-1906
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=liverpoolengcathbapt&h=382176&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT christening date:  24 May 1902 christening place:  Blessed Sacrament (Sacramenti), Lancashire birth date:  21 May 1902 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2180::382176
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927970&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  21 May 1902 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::24927970
+2 SOUR @S-1049145086@
+3 _APID 1,61172::1672227
+2 SOUR @S-1049145086@
+3 _APID 1,61172::2018238
+2 SOUR @S-1049145086@
+3 _APID 1,61172::2492483
+1 DEAT
+2 DATE 1958
+1 NAME Nicholas /McDonough/
+2 SOUR @S-1782924844@
+3 PAGE Liverpool, England, Catholic Baptisms, 1802-1906
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=liverpoolengcathbapt&h=382176&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT christening date:  24 May 1902 christening place:  Blessed Sacrament (Sacramenti), Lancashire birth date:  21 May 1902 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2180::382176
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927970&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  21 May 1902 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::24927970
+2 SOUR @S-1049145086@
+3 _APID 1,61172::1672227
+2 SOUR @S-1049145086@
+3 _APID 1,61172::2018238
+2 SOUR @S-1049145086@
+3 _APID 1,61172::2492483
+1 _MILT
+2 DATE 1939 - 1948
+2 PLAC Paddington New South Wales
+2 SOUR @S-1049145086@
+3 _APID 1,61172::2492483
+1 _MILT
+2 DATE 1939 - 1948
+2 PLAC Sydney
+2 SOUR @S-1049145086@
+3 _APID 1,61172::2018238
+1 _MILT
+2 DATE 1939 - 1948
+2 PLAC Newcastle New South Wales
+2 SOUR @S-1049145086@
+3 _APID 1,61172::1672227
+1 RESI
+2 TYPE Residence
+2 DATE 2 Apr 1911
+2 PLAC West Derby, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927970&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  21 May 1902 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::24927970
+1 CHR
+2 DATE 24 May 1902
+2 PLAC Blessed Sacrament (Sacramenti), Lancashire
+2 SOUR @S-1782924844@
+3 PAGE Liverpool, England, Catholic Baptisms, 1802-1906
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=liverpoolengcathbapt&h=382176&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT christening date:  24 May 1902 christening place:  Blessed Sacrament (Sacramenti), Lancashire birth date:  21 May 1902 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2180::382176
+1 SEX M
+1 IMMI Arrived in melbourne from london on the ship ormonde
+2 DATE 26 Jun 1928
+2 PLAC Melbourne, Victoria, Australia
+1 EMIG Day after they got married
+2 DATE About 1927
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=10
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=2d4f93df-6acc-41de-a0c0-77235e44bde5&tid=10908437&pid=10
+2 FORM jpg
+2 TITL Son of Michael McDonough
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=6ba573ee-9e4f-4fd2-a4cf-37cebb56c7b6&tid=10908437&pid=10
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=c68a2cfa-2389-467c-87a3-b0ab1b80ddc9&tid=10908437&pid=10
+2 FORM htm
+2 TITL _
+1 FAMC @F7@
+1 FAMS @F5@
+0 @P11@ INDI
+1 BIRT
+2 DATE 1904
+2 PLAC Subiaco, Western Australia, Australia
+1 DEAT
+2 DATE 1984
+2 PLAC Newcastle
+1 SEX F
+1 NAME Kathleen /Murphy/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=e57c7dcc-181a-4be0-9f3c-91db8f05f17a&tid=10908437&pid=11
+2 FORM htm
+2 TITL _
+1 FAMC @F18@
+1 FAMS @F3@
+0 @P12@ INDI
+1 BIRT
+2 DATE 31 March 1896
+2 PLAC Kings Lynn, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743073&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1901 residence place:  St Margaret, Norfolk, England birth date:  31 March 1896 birth place:  Kings Lynn, Norfolk, England
+3 _APID 1,7814::10743073
+2 SOUR @S-1049292710@
+3 _APID 1,2997::49092915
+2 SOUR @S-1775634381@
+3 _APID 1,8912::33692957
+1 NAME Richard Gilbert /Bray/
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743073&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1901 residence place:  St Margaret, Norfolk, England birth date:  31 March 1896 birth place:  Kings Lynn, Norfolk, England
+3 _APID 1,7814::10743073
+2 SOUR @S-1049292710@
+3 _APID 1,2997::49092915
+2 SOUR @S-1775634381@
+3 _APID 1,8912::33692957
+1 EVEN
+2 TYPE Departure
+2 DATE 8 Jul 1924
+2 PLAC London, England
+2 SOUR @S-1049292710@
+3 _APID 1,2997::49092915
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743073&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1901 residence place:  St Margaret, Norfolk, England birth date:  31 March 1896 birth place:  Kings Lynn, Norfolk, England
+3 _APID 1,7814::10743073
+1 SEX M
+1 EVEN Immigration to Australia
+2 DATE 8 Aug 1924
+2 PLAC Fremantle, Western Australia
+1 RESI
+2 DATE 1911
+2 PLAC Albion St King's Lynn, Norfolk
+1 DEAT
+2 DATE 1958
+2 PLAC Nsw, Australia
+2 SOUR
+3 PAGE New South Wales Registry of Births, Deaths and Marriages
+3 NOTE http://www.bdm.nsw.gov.au/cgi-bin/IndexSearch?form=IndexingSearch&cgiurl=%2Fcgi-bin%2FIndex%2FIndexingBirth.cgi&sname=Bray&gname=richard+gilbert&fname=&mname=&event=deaths&frange=1896&trange=1978&plac
+4 CONC e=&x=45&y=19&SessionID=15891205&reorder=regno
+3 NOTE Registration Number    Last Name    Given Name(s)    Father's Given Name(s)    Mother's Given Name(s)   District
+4 CONT
+4 CONT 4707/1958   BRAY   RICHARD GILBERT   ERNEST WILLIAM   ELIZABETH   MAYFIELD
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=374b61d8-2bbc-48cd-acbb-bbf34ea74092&tid=10908437&pid=12
+2 FORM jpg
+2 TITL census
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=b33de5c4-2225-48bc-a197-770ce1ecc4a7&tid=10908437&pid=12
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=f73dc7bb-83c6-4b07-a345-6e6e0f6818da&tid=10908437&pid=12
+2 FORM htm
+2 TITL Immigration to Australia
+1 FAMC @F4@
+1 FAMS @F3@
+0 @P13@ INDI
+1 BIRT
+2 DATE 28 Jun 1946
+2 PLAC Perth, Western Australia, Australia
+1 SEX M
+1 NAME Peter Kerry /Criddle/
+1 FAMC @F21@
+1 FAMS @F8@
+0 @P14@ INDI
+1 SEX F
+1 NAME Dianne /Roberts/
+1 BIRT
+2 DATE 4 Jul 1949
+1 FAMC @F40@
+1 FAMS @F8@
+0 @P15@ INDI
+1 BIRT
+2 DATE 1860
+2 PLAC Acton, London, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743067&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1860 birth place:  Acton, London, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743067
+1 NAME Elizabeth /Gilbert/
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743067&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1860 birth place:  Acton, London, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743067
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743067&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1860 birth place:  Acton, London, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743067
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743067&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1860 birth place:  Acton, London, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743067
+1 SEX F
+1 FAMC @F83@
+1 FAMS @F4@
+0 @P16@ INDI
+1 BIRT
+2 DATE 1860
+2 PLAC Kings Lynn, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743066&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1860 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743066
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498646&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1871 residence place:  St Margaret, Norfolk, England birth date:  1860 birth place:  Kings Lynn, Norfolk, England
+3 _APID 1,7619::8498646
+1 RESI
+2 DATE 1871
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498646&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1871 residence place:  St Margaret, Norfolk, England birth date:  1860 birth place:  Kings Lynn, Norfolk, England
+3 _APID 1,7619::8498646
+1 NAME Ernest William /Bray/
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743066&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1860 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743066
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498646&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1871 residence place:  St Margaret, Norfolk, England birth date:  1860 birth place:  Kings Lynn, Norfolk, England
+3 _APID 1,7619::8498646
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743066&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1860 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743066
+1 OCCU Head Teacher
+2 DATE 1911
+1 RESI
+2 DATE 1911
+2 PLAC Albion St King's Lynn, Norfolk
+1 SEX M
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=4c06dbfb-26a4-4b18-a4e8-f634bac3bc3f&tid=10908437&pid=16
+2 FORM htm
+2 TITL Head Teacher
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=ebcd426d-b85a-4e2b-9737-5b104f4bf71a&tid=10908437&pid=16
+2 FORM htm
+2 TITL _
+1 FAMC @F10@
+1 FAMS @F4@
+0 @P17@ INDI
+1 SEX F
+1 NAME Emily Maria /Bray/
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498643&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1871 residence place:  St Margaret, Norfolk, England birth date:  1828 birth place:  Norwich, Norfolk, England
+3 _APID 1,7619::8498643
+1 BIRT
+2 DATE 1828
+2 PLAC Norwich, Norfolk, England
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498643&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1871 residence place:  St Margaret, Norfolk, England birth date:  1828 birth place:  Norwich, Norfolk, England
+3 _APID 1,7619::8498643
+1 RESI
+2 DATE 1871
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498643&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1871 residence place:  St Margaret, Norfolk, England birth date:  1828 birth place:  Norwich, Norfolk, England
+3 _APID 1,7619::8498643
+1 FAMS @F10@
+0 @P18@ INDI
+1 BIRT
+2 DATE 1829
+2 PLAC Great Snoring, Norfolk, England
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498642&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1829 birth place:  Great Snoring, Norfolk, England residence date:  1871 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7619::8498642
+1 RESI
+2 DATE 1871
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498642&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1829 birth place:  Great Snoring, Norfolk, England residence date:  1871 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7619::8498642
+1 NAME Benjamin /Bray/
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498642&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1829 birth place:  Great Snoring, Norfolk, England residence date:  1871 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7619::8498642
+1 SEX M
+1 FAMS @F10@
+0 @P19@ INDI
+1 SEX F
+1 NAME Florence Mary /Bray/
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743074&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1898 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743074
+1 BIRT
+2 DATE 1898
+2 PLAC Kings Lynn, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743074&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1898 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743074
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743074&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1898 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743074
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743074&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1898 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743074
+1 FAMC @F4@
+0 @P20@ INDI
+1 BIRT
+2 DATE April 1894
+2 PLAC Kings Lynn, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743072&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1901 residence place:  St Margaret, Norfolk, England birth date:  1894 birth place:  Kings Lynn, Norfolk, England
+3 _APID 1,7814::10743072
+2 SOUR @S-1049145086@
+3 _APID 1,61172::1971538
+2 SOUR @S-1775634381@
+3 _APID 1,8912::33681038
+1 NAME Ernest Gilbert /Bray/
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743072&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1901 residence place:  St Margaret, Norfolk, England birth date:  1894 birth place:  Kings Lynn, Norfolk, England
+3 _APID 1,7814::10743072
+2 SOUR @S-1049145086@
+3 _APID 1,61172::1971538
+2 SOUR @S-1775634381@
+3 _APID 1,8912::33681038
+1 _MILT
+2 DATE 1939 - 1948
+2 PLAC Claremont Western Australia
+2 SOUR @S-1049145086@
+3 _APID 1,61172::1971538
+1 SEX M
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743072&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1901 residence place:  St Margaret, Norfolk, England birth date:  1894 birth place:  Kings Lynn, Norfolk, England
+3 _APID 1,7814::10743072
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743072&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1901 residence place:  St Margaret, Norfolk, England birth date:  1894 birth place:  Kings Lynn, Norfolk, England
+3 _APID 1,7814::10743072
+1 FAMC @F4@
+0 @P21@ INDI
+1 BIRT
+2 DATE 1888
+2 PLAC Kings Lynn, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743068&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1901 residence place:  St Margaret, Norfolk, England birth date:  1888 birth place:  Kings Lynn, Norfolk, England
+3 _APID 1,7814::10743068
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743068&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1901 residence place:  St Margaret, Norfolk, England birth date:  1888 birth place:  Kings Lynn, Norfolk, England
+3 _APID 1,7814::10743068
+1 NAME Dorothy M /Bray/
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743068&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1901 residence place:  St Margaret, Norfolk, England birth date:  1888 birth place:  Kings Lynn, Norfolk, England
+3 _APID 1,7814::10743068
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743068&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1901 residence place:  St Margaret, Norfolk, England birth date:  1888 birth place:  Kings Lynn, Norfolk, England
+3 _APID 1,7814::10743068
+1 SEX F
+1 FAMC @F4@
+0 @P22@ INDI
+1 BIRT
+2 DATE October 1891
+2 PLAC Kings Lynn, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743070&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1892 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743070
+2 SOUR @S-1775634381@
+3 _APID 1,8912::33680371
+1 NAME Emily Alden /Bray/
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743070&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1892 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743070
+2 SOUR @S-1775634381@
+3 _APID 1,8912::33680371
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743070&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1892 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743070
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743070&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1892 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743070
+1 SEX F
+1 FAMC @F4@
+0 @P23@ INDI
+1 BIRT
+2 DATE 1890
+2 PLAC Kings Lynn, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743069&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1890 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743069
+1 NAME Ethel /Bray/
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743069&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1890 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743069
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743069&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1890 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743069
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743069&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1890 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743069
+1 SEX F
+1 FAMC @F4@
+0 @P24@ INDI
+1 BIRT
+2 DATE 1893
+2 PLAC Kings Lynn, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743071&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1893 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743071
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743071&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1893 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743071
+1 NAME Olive /Bray/
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743071&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1893 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743071
+1 RESI
+2 DATE 1901
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779046225@
+3 PAGE 1901 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1901&h=10743071&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1893 birth place:  Kings Lynn, Norfolk, England residence date:  1901 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7814::10743071
+1 SEX F
+1 FAMC @F4@
+0 @P25@ INDI
+1 BIRT
+2 TYPE Birth
+2 DATE 1834
+2 PLAC Doncaster, Yorkshire
+1 SEX F
+1 NAME Sarah Ann /Gilbert/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=5111cdcf-fa24-43e0-84fa-e9c7158554f7&tid=10908437&pid=25
+2 FORM htm
+2 TITL _
+1 FAMS @F83@
+0 @P26@ INDI
+1 BIRT
+2 DATE 1931
+1 SEX F
+1 NAME Rita /McDonough/
+1 FAMC @F5@
+1 FAMS @F6@
+0 @P27@ INDI
+1 SEX M
+1 NAME Albert /Hogan/
+1 FAMS @F6@
+0 @P28@ INDI
+1 BIRT
+2 DATE 1940
+1 NAME Peter /McDonough/
+1 SEX M
+1 FAMC @F5@
+0 @P29@ INDI
+1 BIRT
+2 DATE 1873
+2 PLAC Adare, County Limerick, Ireland
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927968&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1873 birth place:  Adare, County Limerick, Ireland residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::24927968
+1 DEAT
+2 DATE 1952
+2 PLAC Ardglass, Down, Northern Ireland
+1 NAME Maria /Hickey/
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927968&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1873 birth place:  Adare, County Limerick, Ireland residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::24927968
+1 SEX F
+1 RESI
+2 DATE 02 Apr 1911
+2 PLAC West Derby, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927968&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1873 birth place:  Adare, County Limerick, Ireland residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::24927968
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=29
+1 FAMC @F84@
+1 FAMS @F7@
+0 @P30@ INDI
+1 BIRT
+2 DATE 19 Oct 1867
+2 PLAC Killedan, Achonry Diocese, Ireland
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927966&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1868 birth place:  Killinagh, Mayo, Ireland residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::24927966
+2 SOUR @S658572880@
+3 _APID 1,2195::736679
+2 SOUR @S-1779046225@
+3 PAGE Class: RG13; Piece: 3452; Folio: 127; Page: 15
+3 _APID 1,7814::20612642
+1 DEAT
+2 DATE 1916
+1 NAME Michael /McDonough/
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927966&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1868 birth place:  Killinagh, Mayo, Ireland residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::24927966
+2 SOUR @S658572880@
+3 _APID 1,2195::736679
+2 SOUR @S-1779046225@
+3 PAGE Class: RG13; Piece: 3452; Folio: 127; Page: 15
+3 _APID 1,7814::20612642
+1 RESI Relation to Head of House: Head
+2 DATE 1901
+2 PLAC Walton on the Hill, Lancashire, England
+2 SOUR @S-1779046225@
+3 PAGE Class: RG13; Piece: 3452; Folio: 127; Page: 15
+3 _APID 1,7814::20612642
+1 BAPM
+2 DATE 20 Oct 1867
+2 SOUR @S658572880@
+3 _APID 1,2195::736679
+1 SEX M
+1 RESI
+2 TYPE Residence
+2 DATE 2 Apr 1911
+2 PLAC West Derby, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927966&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1868 birth place:  Killinagh, Mayo, Ireland residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::24927966
+1 OCCU
+2 DATE 1911
+1 RESI
+2 PLAC West Derby, Lancashire, England
+1 RESI
+2 PLAC West Derby, Lancashire, England
+1 CHR 496, KILTIMAGH, MAYO, IRE
+2 DATE 20 Oct 1867
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=30
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=24214b9f-d0b3-4db1-af91-d2e5ef55f701&tid=10908437&pid=30
+2 FORM jpg
+2 TITL McDonoughHickeyMarriage
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=3e581299-932d-4dbe-af0b-9e7edde128b8&tid=10908437&pid=30
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=3fb59c94-7c2a-410d-b5b0-2a42a5709c33&tid=10908437&pid=30
+2 FORM jpg
+2 TITL Jan 5 1899 p 2 - 3
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=61c7127e-535f-4437-9a2b-b5dccfbe4029&tid=10908437&pid=30
+2 FORM jpg
+2 TITL Michael McDonough fireman
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=637fe900-3bdf-4283-a9f6-80b3f3aa3999&tid=10908437&pid=30
+2 FORM jpg
+2 TITL MichaelMcDonoughentrancetoPolice2
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=7f8406df-2a81-45bd-85e7-220a88e64c29&tid=10908437&pid=30
+2 FORM jpg
+2 TITL iPad Photo
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=8e20a450-05f0-4961-a144-de75efedbcfc&tid=10908437&pid=30
+2 FORM jpg
+2 TITL MichaelMcDonoughentrancetoPolice1
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=f0374483-53dd-4653-95b9-5bbf05832e97&tid=10908437&pid=30
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=facaa3fb-3b40-4bcc-a1b2-dd005a7cbadf&tid=10908437&pid=30
+2 FORM jpg
+2 TITL Jan 5 1899 p 2 - 3
+1 FAMC @F12@
+1 FAMS @F7@
+0 @P31@ INDI
+1 SEX F
+1 NAME Margaret /O'neill/
+2 SOUR @S-1774651822@
+3 PAGE England and Wales, Death Index: 1837-1915
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=freebmddeath&h=14650602&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1869 death date:  Sep 1906 death place:  Lancashire, United Kingdom
+3 _APID 1,8914::14650602
+1 DEAT
+2 TYPE Death
+2 DATE 1907
+2 PLAC West Derby
+2 SOUR @S-1774651822@
+3 PAGE England and Wales, Death Index: 1837-1915
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=freebmddeath&h=14650602&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1869 death date:  Sep 1906 death place:  Lancashire, United Kingdom
+3 _APID 1,8914::14650602
+1 BIRT
+2 TYPE Birth
+2 DATE 1879
+2 PLAC Lpool, England
+2 SOUR @S-1774651822@
+3 PAGE England and Wales, Death Index: 1837-1915
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=freebmddeath&h=14650602&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1869 death date:  Sep 1906 death place:  Lancashire, United Kingdom
+3 _APID 1,8914::14650602
+1 RESI Kirkdale, Lancashire, England
+2 DATE 1901
+1 MARR
+2 DATE 1898
+1 RESI Kirkdale, Lancashire, England
+2 DATE 1881
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=30ea5477-dbf4-498a-927d-f79f2608a141&tid=10908437&pid=31
+2 FORM htm
+2 TITL Kirkdale, Lancashire, England
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=87ca338b-83b7-4b7c-a829-58a78d7fcb3e&tid=10908437&pid=31
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=eb8d2023-a1e4-42ed-bd10-c6e12c585165&tid=10908437&pid=31
+2 FORM htm
+2 TITL Kirkdale, Lancashire, England
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=f22d065a-04d1-478f-9c0a-27fab990b77e&tid=10908437&pid=31
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=fd2dfb99-fcc8-4248-8057-9086d92db31d&tid=10908437&pid=31
+2 FORM htm
+2 TITL _
+1 FAMC @F42@
+1 FAMS @F11@
+0 @P32@ INDI
+1 BIRT
+2 DATE 1871
+2 PLAC Cliffony, County Sligo, Ireland
+2 SOUR @S-1779049742@
+3 NOTE http://search.Ancestry.com.au/cgi-bin/sse.dll?db=1911england&h=23763198&ti=5544&indiv=try&gss=pt
+3 DATA
+4 TEXT Birth date:  abt 1871 Birth place:  Cliffony, County Silgo, Ireland Residence date:  02 Apr 1911 Residence place:  Kirkdale, Lancashire, England
+3 _APID 1,2352::23763198
+1 RESI
+2 TYPE Residence
+2 DATE 2 Apr 1911
+2 PLAC Kirkdale, Lancashire, England
+2 SOUR @S-1779049742@
+3 NOTE http://search.Ancestry.com.au/cgi-bin/sse.dll?db=1911england&h=23763198&ti=5544&indiv=try&gss=pt
+3 DATA
+4 TEXT Birth date:  abt 1871 Birth place:  Cliffony, County Silgo, Ireland Residence date:  02 Apr 1911 Residence place:  Kirkdale, Lancashire, England
+3 _APID 1,2352::23763198
+1 NAME Patrick /Hannigan/
+2 SOUR @S-1779049742@
+3 NOTE http://search.Ancestry.com.au/cgi-bin/sse.dll?db=1911england&h=23763198&ti=5544&indiv=try&gss=pt
+3 DATA
+4 TEXT Birth date:  abt 1871 Birth place:  Cliffony, County Silgo, Ireland Residence date:  02 Apr 1911 Residence place:  Kirkdale, Lancashire, England
+3 _APID 1,2352::23763198
+1 SEX M
+1 OCCU Stevedore
+2 DATE 1911
+1 RESI
+2 TYPE Residence
+2 DATE 1901
+2 PLAC Kirkdale, Lancashire, England
+1 OCCU Foreman Shipping
+2 DATE 1901
+1 DEAT
+2 DATE 1942
+2 PLAC Glen Innes, NSW, Australia
+1 MARR
+2 DATE 1898
+1 EVEN Arrived In Sydney From London On The Ship Orama  http://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=11554925&S=18
+2 TYPE event
+2 DATE 20 Aug 1929
+2 PLAC Sydney, New South Wales, Australia
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=477b6085-cf6e-4374-ba1c-711e253d4eb8&tid=10908437&pid=32
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=4dbac154-c5d0-4595-83d7-ed48ff9c504c&tid=10908437&pid=32
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=68dc6def-bd5e-40f0-a4a6-ccb29c88d88e&tid=10908437&pid=32
+2 FORM htm
+2 TITL Arrived In Sydney From London On The Ship Orama
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=7a627e9e-6674-4d97-bf66-d58b556efeab&tid=10908437&pid=32
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=7a7ac86e-e35e-4f51-bf6e-a43b145407a0&tid=10908437&pid=32
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=d970a1e2-a99f-470b-877c-3d54fe29b98e&tid=10908437&pid=32
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=e6ed1bdc-3527-4936-9b69-c9a31e928a29&tid=10908437&pid=32
+2 FORM htm
+2 TITL Stevedore
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=f3e944e8-f046-493c-8c9b-1c6120cd569e&tid=10908437&pid=32
+2 FORM htm
+2 TITL Foreman Shipping
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=f64aea67-3921-4acf-ad3b-ca3b3ee69c21&tid=10908437&pid=32
+2 FORM htm
+2 TITL _
+1 FAMC @F37@
+1 FAMS @F11@
+0 @P33@ INDI
+1 BIRT
+2 DATE 1902
+1 SEX F
+1 NAME May /Hannigan/
+0 @P34@ INDI
+1 BIRT
+2 DATE Dec 1911
+2 PLAC West Derby, Lancashire
+2 SOUR @S-1775634381@
+3 PAGE England & Wales, FreeBMD Birth Index, 1837-1915
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=freebmdbirth&h=21685490&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  Dec 1911 birth place:  Liverpool, Lancashire, England
+3 _APID 1,8912::21685490
+1 SEX F
+1 NAME Mabel Josephine /McDonough/
+2 SOUR @S-1775634381@
+3 PAGE England & Wales, FreeBMD Birth Index, 1837-1915
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=freebmdbirth&h=21685490&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  Dec 1911 birth place:  Liverpool, Lancashire, England
+3 _APID 1,8912::21685490
+1 IMMI Arrived in sydney from london on the ship orama
+2 DATE 20 Aug 1929
+2 PLAC Sydney, New South Wales, Australia
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=34
+1 FAMC @F7@
+1 FAMS @F81@
+1 FAMS @F82@
+0 @P35@ INDI
+1 DEAT Pick a box champion Didn,t marry
+2 DATE About 1971
+2 PLAC Sydney, New South Wales, Australia
+1 NAME Mary Elizabeth /McDonough/
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927969&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1901 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::24927969
+2 SOUR @S-1775634381@
+3 PAGE England & Wales, FreeBMD Birth Index, 1837-1915
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=freebmdbirth&h=21685997&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  Jun 1900 birth place:  Liverpool, Lancashire, England
+3 _APID 1,8912::21685997
+1 BIRT
+2 DATE April 1900
+2 PLAC West Derby, Lancashire
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927969&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1901 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::24927969
+2 SOUR @S-1775634381@
+3 PAGE England & Wales, FreeBMD Birth Index, 1837-1915
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=freebmdbirth&h=21685997&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  Jun 1900 birth place:  Liverpool, Lancashire, England
+3 _APID 1,8912::21685997
+1 RESI
+2 DATE 02 Apr 1911
+2 PLAC West Derby, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927969&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1901 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::24927969
+1 SEX F
+1 IMMI Arrived in sydney from london on the ship orama
+2 DATE 20 Aug 1929
+2 PLAC Sydney, New South Wales, Australia
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=35
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=03c92458-4026-466a-a921-ed2ba646a1c0&tid=10908437&pid=35
+2 FORM jpg
+2 TITL Daughter of Michael McDonough
+1 FAMC @F7@
+0 @P36@ INDI
+1 DEAT http://www.freebmd.org.uk/cgi/information.pl?scan=1&r=218258476:2962&d=bmd_1487153575
+2 DATE 1959
+2 PLAC Yorkshire, England
+1 BIRT
+2 DATE 11 May 1904
+2 PLAC West Derby, Lancashire
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927972&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England birth date:  1905 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2352::24927972
+2 SOUR @S-1775634381@
+3 PAGE England & Wales, FreeBMD Birth Index, 1837-1915
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=freebmdbirth&h=21686655&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  11 May 1904 birth place:  Liverpool, Lancashire, England
+3 _APID 1,8912::21686655
+2 SOUR @S-1049145133@
+3 _APID 1,70692::39658
+1 NAME Thomas Joseph /McDonough/
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927972&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England birth date:  1905 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2352::24927972
+2 SOUR @S-1775634381@
+3 PAGE England & Wales, FreeBMD Birth Index, 1837-1915
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=freebmdbirth&h=21686655&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  11 May 1904 birth place:  Liverpool, Lancashire, England
+3 _APID 1,8912::21686655
+2 SOUR @S-1049145133@
+3 _APID 1,70692::39658
+1 _MILT
+2 DATE 1939-1945
+2 SOUR @S-1049145133@
+3 _APID 1,70692::39658
+1 SEX M
+1 RESI
+2 DATE 02 Apr 1911
+2 PLAC West Derby, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=24927972&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England birth date:  1905 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2352::24927972
+1 RESI
+2 PLAC West Derby, Lancashire, England
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=36
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=3372a2ef-5510-4172-8383-0b6555359ac1&tid=10908437&pid=36
+2 FORM jpg
+2 TITL 10-12-38 p. 2 John McDonough letter to brother in law Thomas Orgill
+1 FAMC @F7@
+1 FAMS @F9@
+0 @P37@ INDI
+1 NAME Thomas /Hickey/
+1 SEX M
+1 DEAT
+2 DATE 1899
+1 FAMS @F84@
+0 @P38@ INDI
+1 BIRT
+2 DATE 08 Aug 1841
+2 PLAC Mayo
+1 DEAT
+2 DATE 1908
+2 PLAC Kiltamagh, County Mayo, Ireland
+1 NAME Bridget /Jordan/
+1 SEX F
+1 RESI
+2 DATE 1901
+2 PLAC Killedan, Mayo
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=38
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=34ff2661-d7c0-401c-8f63-f7031e17d78f&tid=10908437&pid=38
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=77176eff-1022-4b70-ad18-2ec93196983c&tid=10908437&pid=38
+2 FORM pdf
+2 TITL Bridget Jordan Birth
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=77d00800-9fa0-454b-9fdc-8381abfdb9d6&tid=10908437&pid=38
+2 FORM pdf
+2 TITL 1901 Census
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=8bbf90c8-bc30-4798-bc19-c46f1d8a7881&tid=10908437&pid=38
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=c21fe07d-8165-47f7-887e-af5709b895c7&tid=10908437&pid=38
+2 FORM htm
+2 TITL _
+1 FAMC @F17@
+1 FAMS @F12@
+0 @P39@ INDI
+1 BIRT
+2 DATE 1836
+2 PLAC Kiltamaugh, Ireland
+1 DEAT
+2 DATE 18 Jul 1900
+2 PLAC Killedan, Mayo
+2 OBJE
+3 FILE http://trees.ancestry.com/rd?f=document&guid=fd93577a-34f9-4868-a85f-09945b732ea3&tid=10908437&pid=39
+3 FORM pdf
+3 TITL Nicholas McDonough Death Record
+1 SEX M
+1 NAME Nicholas /McDonagh/
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=39
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=2b33d984-82b2-4bf7-a198-f95c746f7ee9&tid=10908437&pid=39
+2 FORM jpg
+2 TITL McDonough, Nicholas (father of Delia aka Bridget)
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=fd93577a-34f9-4868-a85f-09945b732ea3&tid=10908437&pid=39
+2 FORM pdf
+2 TITL Nicholas McDonough Death Record
+1 FAMS @F12@
+0 @P40@ INDI
+1 BIRT
+2 DATE 1868
+2 PLAC Melbourne, Australia
+1 SEX F
+1 NAME Theresa /Hagarty/
+1 FAMC @F74@
+1 FAMS @F18@
+0 @P41@ INDI
+1 CHR
+2 PLAC Blackrock, Dub, Ireland
+2 SOUR @S-1778056582@
+3 PAGE Ireland, Births and Baptisms, 1620-1911
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=fsirelandbirth&h=1994988&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  8 Mar 1871 birth place:  Blackrock, Dub, Ireland christening place:  Blackrock, Dub, Ireland
+3 _APID 1,2533::1994988
+1 NAME Francis Patrick /Murphy/
+2 SOUR @S-1778056582@
+3 PAGE Ireland, Births and Baptisms, 1620-1911
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=fsirelandbirth&h=1994988&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  8 Mar 1871 birth place:  Blackrock, Dub, Ireland christening place:  Blackrock, Dub, Ireland
+3 _APID 1,2533::1994988
+1 SEX M
+1 DEAT Guess from death certificate
+2 DATE 1946
+2 PLAC Perth, Western Australia, Australia
+1 BIRT
+2 DATE 8 Mar 1871
+2 SOUR @S-1778056582@
+3 PAGE Ireland, Births and Baptisms, 1620-1911
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=fsirelandbirth&h=1994988&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  8 Mar 1871 birth place:  Blackrock, Dub, Ireland christening place:  Blackrock, Dub, Ireland
+3 _APID 1,2533::1994988
+1 FAMC @F20@
+1 FAMS @F18@
+0 @P42@ INDI
+1 DEAT
+2 DATE Jun 1983
+2 PLAC Perth, Western Australia, Australia
+1 BIRT Based upon verbal - roma criddle
+2 DATE 7 Jun 1907
+2 PLAC Southern Cross, Western Australia, Australia
+1 SEX F
+1 NAME Mary Gertrude /Hannaghan/
+1 NOTE Name based upon census record
+1 FAMC @F41@
+1 FAMS @F21@
+0 @P43@ INDI
+1 SEX M
+1 NAME William Percy Reynolds /Criddle/
+1 DEAT
+2 DATE 10 Jul 1982
+2 PLAC Maylands, Western Australia, Australia
+1 BIRT
+2 DATE 24 May 1905
+2 PLAC Dongara, Western Australia, Australia
+1 FAMC @F22@
+1 FAMS @F21@
+0 @P44@ INDI
+1 BIRT
+2 DATE 26 Dec 1901
+2 PLAC Liverpool, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455374&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1901 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455374
+1 NAME May Margaret /Haslem/
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455374&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1901 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455374
+1 SEX F
+1 RESI
+2 DATE 02 Apr 1911
+2 PLAC West Derby, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455374&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1901 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455374
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=44
+1 FAMC @F39@
+1 FAMS @F9@
+0 @P45@ INDI
+1 NAME Kate H M /Bray/
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498648&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1866 birth place:  Lynn, Norfolk, England residence date:  1871 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7619::8498648
+1 RESI
+2 DATE 1871
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498648&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1866 birth place:  Lynn, Norfolk, England residence date:  1871 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7619::8498648
+1 BIRT
+2 DATE 1866
+2 PLAC Lynn, Norfolk, England
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498648&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1866 birth place:  Lynn, Norfolk, England residence date:  1871 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7619::8498648
+1 SEX F
+1 FAMC @F10@
+0 @P46@ INDI
+1 BIRT
+2 DATE 1862
+2 PLAC Lynn, Norfolk, England
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498647&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1871 residence place:  St Margaret, Norfolk, England birth date:  1862 birth place:  Lynn, Norfolk, England
+3 _APID 1,7619::8498647
+1 RESI
+2 DATE 1871
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498647&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1871 residence place:  St Margaret, Norfolk, England birth date:  1862 birth place:  Lynn, Norfolk, England
+3 _APID 1,7619::8498647
+1 NAME Benjamin /Bray/
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498647&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  1871 residence place:  St Margaret, Norfolk, England birth date:  1862 birth place:  Lynn, Norfolk, England
+3 _APID 1,7619::8498647
+1 SEX M
+1 FAMC @F10@
+0 @P47@ INDI
+1 RESI
+2 DATE 1871
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498645&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1858 birth place:  Lynn, Norfolk, England residence date:  1871 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7619::8498645
+1 NAME Annie M /Bray/
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498645&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1858 birth place:  Lynn, Norfolk, England residence date:  1871 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7619::8498645
+1 BIRT
+2 DATE 1858
+2 PLAC Lynn, Norfolk, England
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498645&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1858 birth place:  Lynn, Norfolk, England residence date:  1871 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7619::8498645
+1 SEX F
+1 FAMC @F10@
+0 @P48@ INDI
+1 BIRT
+2 DATE January 1856
+2 PLAC Lynn, Norfolk, England
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498644&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1856 birth place:  Lynn, Norfolk, England residence date:  1871 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7619::8498644
+2 SOUR @S-1775634381@
+3 _APID 1,8912::33680369
+1 NAME Emily Alden /Bray/
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498644&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1856 birth place:  Lynn, Norfolk, England residence date:  1871 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7619::8498644
+2 SOUR @S-1775634381@
+3 _APID 1,8912::33680369
+1 RESI
+2 DATE 1871
+2 PLAC St Margaret, Norfolk, England
+2 SOUR @S-1779045097@
+3 PAGE 1871 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=uki1871&h=8498644&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1856 birth place:  Lynn, Norfolk, England residence date:  1871 residence place:  St Margaret, Norfolk, England
+3 _APID 1,7619::8498644
+1 SEX F
+1 FAMC @F10@
+0 @P49@ INDI
+1 BIRT
+2 DATE 1835
+2 PLAC Sligo, Ireland
+2 SOUR @S658909944@
+3 _APID 1,70667::10500453
+1 RESI Relation to Head of House: Wife
+2 DATE 31 March 1901
+2 PLAC Carney, Sligo, Ireland
+2 SOUR @S658909944@
+3 _APID 1,70667::10500453
+1 NAME Maria Connolly
+2 SOUR @S658909944@
+3 _APID 1,70667::10500453
+1 SEX F
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=730cb420-be83-44c4-a076-67c5a0c9e364&tid=10908437&pid=49
+2 FORM htm
+2 TITL _
+1 FAMS @F37@
+0 @P50@ INDI
+1 BIRT http://www.census.nationalarchives.ie/reels/nai003867828/
+2 DATE 1831
+2 PLAC Sligo, Ireland
+2 SOUR @S658909944@
+3 _APID 1,70667::9327125
+1 RESI http://www.census.nationalarchives.ie/pages/1901/Sligo/Carney/Cartronmore/1680061/
+2 DATE 31 March 1901
+2 PLAC Carney, Sligo, Ireland
+2 SOUR @S658909944@
+3 _APID 1,70667::9327125
+1 NAME John /Hannigan/
+2 SOUR @S658909944@
+3 _APID 1,70667::9327125
+1 DEAT
+2 DATE 1901 - 1911
+1 SEX M
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=53f20dfc-2e77-4273-bb66-7861ec902b49&tid=10908437&pid=50
+2 FORM htm
+2 TITL _
+1 FAMS @F37@
+0 @P51@ INDI
+1 RESI Relation to Head of House: Neice
+2 DATE 2 April 1911
+2 PLAC Rossinver East, Sligo, Ireland
+2 SOUR @S658667589@
+3 PAGE Class: RG14
+3 _APID 1,70564::16997335
+1 BIRT
+2 DATE 1901
+2 PLAC Liverpool, Lancashire, England
+2 SOUR @S-1775634381@
+3 PAGE England & Wales, FreeBMD Birth Index, 1837-1915
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=freebmdbirth&h=8538737&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  Jun 1901 birth place:  Lancashire, United Kingdom
+3 _APID 1,8912::8538737
+2 SOUR @S-1774684240@
+3 PAGE Liverpool, England, Catholic Confirmations, 1813-1906
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=liverpoolengcathcon&h=281764&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1901 birth place:  Lancashire, United Kingdom
+3 _APID 1,2187::281764
+2 SOUR @S658667589@
+3 PAGE Class: RG14
+3 _APID 1,70564::16997335
+1 NAME Mary Frances /Hannigan/
+2 SOUR @S-1775634381@
+3 PAGE England & Wales, FreeBMD Birth Index, 1837-1915
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=freebmdbirth&h=8538737&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  Jun 1901 birth place:  Lancashire, United Kingdom
+3 _APID 1,8912::8538737
+2 SOUR @S-1774684240@
+3 PAGE Liverpool, England, Catholic Confirmations, 1813-1906
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=liverpoolengcathcon&h=281764&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1901 birth place:  Lancashire, United Kingdom
+3 _APID 1,2187::281764
+2 SOUR @S658667580@
+3 _APID 1,60528::3346921
+2 SOUR @S658667589@
+3 PAGE Class: RG14
+3 _APID 1,70564::16997335
+1 BURI
+2 PLAC Matraville, Randwick City, New South Wales, Australia
+2 SOUR @S658667580@
+3 _APID 1,60528::3346921
+1 DEAT
+2 DATE 1982
+2 SOUR @S658667580@
+3 _APID 1,60528::3346921
+1 SEX F
+1 IMMI Arrived in sydney from london on the ship orama
+2 DATE 20 Aug 1929
+2 PLAC Sydney, New South Wales, Australia
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=006e6598-8a1e-45ef-abda-a513dda303a1&tid=10908437&pid=51
+2 FORM htm
+2 TITL Arrived in sydney from london on the ship orama
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=f79d72e3-6f69-4489-992b-924aa1d9eef1&tid=10908437&pid=51
+2 FORM htm
+2 TITL _
+1 FAMC @F11@
+0 @P52@ INDI
+1 BIRT
+2 DATE About 1882
+1 DEAT
+2 DATE 14 Jan 1958
+1 NAME Maria /McDonough/
+1 SEX F
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=52
+1 FAMC @F12@
+1 FAMS @F79@
+0 @P53@ INDI
+1 BIRT
+2 DATE 22 Nov 1877
+2 PLAC Killedan, Mayo
+1 NAME Nicholas /McDonough/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=53
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=93c6af2e-44b1-455e-af66-ed0b5ad8ecde&tid=10908437&pid=53
+2 FORM jpg
+2 TITL Uncle Nicholas McDonough
+1 FAMC @F12@
+0 @P54@ INDI
+1 BIRT
+2 DATE 1872
+2 PLAC Killeaden, County Mayo, Ireland
+1 NAME Anthony /Mcdonough/
+1 SEX M
+1 RESI http://www.census.nationalarchives.ie/reels/nai001094742/
+2 DATE 31 Mar 1901
+2 PLAC Killedan, Mayo, Ireland
+1 RESI http://www.census.nationalarchives.ie/pages/1911/Mayo/Ardlee/Killedan/738642/
+2 DATE 2 Apr 1911
+2 PLAC Killedan, Mayo, Ireland
+1 OCCU Farmer
+2 DATE 2 Apr 1911
+2 PLAC Killedan, Mayo, Ireland
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=54
+1 FAMC @F12@
+1 FAMS @F15@
+0 @P55@ INDI
+1 DEAT http://www.freebmd.org.uk/cgi/information.pl?cite=r3ceIRWUA5YyF9misJrMLQ&scan=1
+2 DATE 6 Mar 1949
+2 PLAC Yorkshire, England
+1 BIRT
+2 DATE 12 Aug 1870
+2 PLAC Killedan, Achonry Diocese, Ireland
+1 NAME John /McDonagh/
+1 SEX M
+1 OCCU
+2 DATE 5 Jan 1899
+2 PLAC Stockton-on-Tees, Durham, England
+2 OBJE
+3 FILE http://trees.ancestry.com/rd?f=image&guid=73874f10-e5c2-4776-8383-907055de5100&tid=10908437&pid=55
+3 FORM jpg
+3 TITL Jan 5 1899 p 2 - 3
+1 BAPM Godparents James McDonough and Annie Jordan
+2 DATE 14 Aug 1870
+2 PLAC Killedan, Mayo, Ireland
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=55
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=3b82aa0a-f9c7-40a7-89f7-2dacddd5d6e5&tid=10908437&pid=55
+2 FORM jpg
+2 TITL John McDonough
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=73874f10-e5c2-4776-8383-907055de5100&tid=10908437&pid=55
+2 FORM jpg
+2 TITL Jan 5 1899 p 2 - 3
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=d65b4125-07eb-4622-8bd2-1efe9db6dbfb&tid=10908437&pid=55
+2 FORM jpg
+2 TITL Uncle John McDonough,  Train Inspector, England
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=73874f10-e5c2-4776-8383-907055de5100&tid=10908437&pid=55
+2 FORM jpg
+2 TITL Jan 5 1899 p 2 - 3
+1 FAMC @F12@
+1 FAMS @F14@
+0 @P56@ INDI
+1 DEAT
+2 DATE 27 Dec 1935
+2 PLAC Cleveland, Cuyahoga, Ohio, USA
+2 OBJE
+3 FILE http://trees.ancestry.com/rd?f=image&guid=e33c56b5-2163-43a7-a182-37308e48e2bd&tid=10908437&pid=56
+3 FORM jpg
+3 TITL record-image_33SQ-GPFF-1R4
+1 BIRT
+2 DATE 18 Mar 1863
+2 PLAC Killedan, Achonry Diocese, Ireland
+1 NAME Patrick Joseph /Mcdonough/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=56
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=0f37fad6-6015-4c94-aa8f-17cdcc50a1da&tid=10908437&pid=56
+2 FORM jpg
+2 TITL Uncle Patty McDonough
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=e33c56b5-2163-43a7-a182-37308e48e2bd&tid=10908437&pid=56
+2 FORM jpg
+2 TITL record-image_33SQ-GPFF-1R4
+1 FAMC @F12@
+1 FAMS @F13@
+0 @P57@ INDI
+1 BIRT
+2 DATE 16 Sep 1865
+2 PLAC Kiltimagh, Mayo, Ireland
+2 SOUR @S658573030@
+3 PAGE Catholic Parish Registers, The National Library of Ireland; Dublin, Ireland; Microfilm Number: Microfilm 04224 / 13
+3 _APID 1,61039::822291
+1 DEAT
+2 DATE 4 August 1928
+2 PLAC North Braddock, Allegheny County, Pennsylvania, USA
+1 NAME Bridget /McDonough/
+2 SOUR @S658572987@
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=0&pid=57
+2 SOUR @S658573030@
+3 PAGE Catholic Parish Registers, The National Library of Ireland; Dublin, Ireland; Microfilm Number: Microfilm 04224 / 13
+3 _APID 1,61039::822291
+1 BAPM
+2 DATE 24 Sep 1865
+2 PLAC Killedan, Mayo, Ireland
+2 SOUR @S658573030@
+3 PAGE Catholic Parish Registers, The National Library of Ireland; Dublin, Ireland; Microfilm Number: Microfilm 04224 / 13
+3 _APID 1,61039::822291
+1 SEX F
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=0d7c0c4f-64b9-4c3a-b3ea-ed3b8a37ef9b&tid=10908437&pid=57
+2 FORM jpg
+2 TITL Orgill, Thomas and Delia McDonough wedding picture 1893
+1 FAMC @F12@
+1 FAMS @F77@
+0 @P58@ INDI
+1 NAME Bridget /Sheridan/
+1 SEX F
+1 FAMS @F17@
+0 @P59@ INDI
+1 NAME Patrick /Jordan/
+1 SEX M
+1 FAMS @F17@
+0 @P60@ INDI
+1 BIRT
+2 DATE 25 Dec 1871
+2 PLAC Ireland
+1 DEAT
+2 DATE 1904
+2 PLAC Pittsburgh, Allegheny County, Pennsylvania
+1 NAME Elizabeth "LIzzie"  /Moran/
+1 SEX F
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=60
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=c0cbad7c-ac73-4004-8ef6-0f5a62aee115&tid=10908437&pid=60
+2 FORM jpg
+2 TITL Elizabeth McDonough
+1 FAMC @F80@
+1 FAMS @F13@
+0 @P61@ INDI
+1 BIRT
+2 DATE 5 Jan 1897
+2 PLAC Allegheny, Pennsylvania, USA
+1 NAME Nicholas J /McDonough/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=61
+1 FAMC @F13@
+0 @P62@ INDI
+1 BIRT
+2 DATE 13 Sep 1892
+2 PLAC Pittsburgh Allegheny Co PA
+1 DEAT
+2 DATE 26 May 1966
+1 NAME Mary E /McDonough/
+1 SEX F
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=62
+1 FAMC @F13@
+0 @P63@ INDI
+1 BIRT based upon search used for death
+2 DATE 8 Sep 1878
+1 DEAT based on search for freeBMD for Ellen McDonagh deaths after 1939  http://www.freebmd.org.uk/cgi/information.pl?scan=1&r=247952443:4755&d=bmd_1487153575
+2 DATE Mar 1973
+2 PLAC Staincliffe, Yorkshire, England
+1 SEX F
+1 NAME Ellen /Kelly/
+1 CENS http://search.findmypast.co.uk/results/world-records/1939-register?firstname=john&firstname_variants=true&lastname=mcdonagh&yearofbirth=1870&yearofbirth_offset=2
+2 DATE 1939
+2 PLAC Thornaby-on-Tees, Yorkshire, England
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=63
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=e6b20639-c5af-49d8-a14f-97eff5ccf0e7&tid=10908437&pid=63
+2 FORM jpg
+2 TITL Ellie and John McDonough
+1 FAMS @F14@
+0 @P64@ INDI
+1 NAME Nicholas /McDonough/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=64
+1 FAMC @F14@
+0 @P65@ INDI
+1 BIRT
+2 DATE 1881
+2 PLAC Mayo, Ireland
+1 SEX F
+1 NAME Ellen /Carney/
+1 RESI http://www.census.nationalarchives.ie/pages/1911/Mayo/Ardlee/Killedan/738642/
+2 DATE 2 Apr 1911
+2 PLAC Killedan, Mayo, Ireland
+1 FAMS @F15@
+0 @P66@ INDI
+1 NAME husband /Jordan/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=66
+1 FAMS @F79@
+0 @P67@ INDI
+1 DEAT
+2 DATE 11 Jan 1958
+2 PLAC Stockton-On-Tees
+1 NAME Tom /Jordan/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=67
+1 FAMC @F79@
+0 @P68@ INDI
+1 NAME Mary
+1 SEX F
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=68
+1 FAMS @F80@
+0 @P69@ INDI
+1 NAME /Moran/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=69
+1 FAMS @F80@
+0 @P70@ INDI
+1 SEX F
+1 NAME Andree /Watt/
+1 FAMS @F16@
+0 @P71@ INDI
+1 RESI
+2 DATE 02 Apr 1911
+2 PLAC West Derby, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455362&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1870 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455362
+1 NAME Margaret /Haslem/
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455362&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1870 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455362
+1 BIRT
+2 DATE 1870
+2 PLAC Liverpool, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455362&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1870 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455362
+1 SEX F
+1 FAMS @F39@
+0 @P72@ INDI
+1 BIRT
+2 DATE 1867
+2 PLAC Liverpool, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455359&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England birth date:  1867 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2352::23455359
+1 RESI
+2 DATE 02 Apr 1911
+2 PLAC West Derby, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455359&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England birth date:  1867 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2352::23455359
+1 NAME George William /Haslem/
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455359&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England birth date:  1867 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2352::23455359
+1 SEX M
+1 FAMS @F39@
+0 @P73@ INDI
+1 SEX M
+1 NAME John /Murphy/
+1 FAMC @F18@
+0 @P74@ INDI
+1 NAME Teresa /Hewson/
+1 SEX F
+1 BIRT
+2 DATE 1822
+2 PLAC Dublin, Ireland
+1 FAMS @F20@
+0 @P75@ INDI
+1 NAME Gregory /Murphy/
+1 SEX M
+1 EMIG 1860's came to australia on the lightning
+2 DATE About 1866
+1 BIRT
+2 DATE 1822
+2 PLAC Dublin, Ireland
+1 FAMS @F20@
+0 @P76@ INDI
+1 BIRT
+2 DATE 22 November 1903
+2 PLAC Subiaco, Western Australia, Australia
+2 SOUR @S-1049145124@
+3 _APID 1,9289::3603518
+1 DEAT
+2 DATE 21 Jul 1979
+2 PLAC Perth Western Australia
+2 SOUR @S-1049145124@
+3 _APID 1,9289::3603518
+1 NAME Charles Thomas /Murphy/
+2 SOUR @S-1049145124@
+3 _APID 1,9289::3603518
+1 SEX M
+1 FAMC @F18@
+1 FAMS @F19@
+0 @P77@ INDI
+1 DEAT
+2 DATE 1969
+2 PLAC Perth, Western Australia, Australia
+1 BIRT
+2 DATE 1898
+2 PLAC Broome, Western Australia, Australia
+1 NAME Francis Gregory /Murphy/
+1 SEX M
+1 FAMC @F18@
+0 @P78@ INDI
+1 BIRT
+2 DATE 1903
+2 PLAC Western Australia, Australia
+1 NAME Eileen Margaret /Murphy/
+1 SEX F
+1 FAMC @F18@
+0 @P79@ INDI
+1 BIRT
+2 DATE 28 Mar 1906
+2 PLAC Perth, Western Australia
+2 SOUR @S-1049145124@
+3 _APID 1,9289::3603434
+1 DEAT
+2 DATE 6 Aug 1976
+2 PLAC Perth, Western Australia
+2 SOUR @S-1049145124@
+3 _APID 1,9289::3603434
+1 NAME Alma Catherine /Galvin/
+2 SOUR @S-1049145124@
+3 _APID 1,9289::3603434
+1 SEX F
+1 FAMC @F76@
+1 FAMS @F19@
+0 @P80@ INDI
+1 BIRT
+2 DATE 1933
+2 PLAC North Perth, Western Australia, Australia
+1 SEX M
+1 NAME Kevin John /Murphy/
+1 FAMC @F19@
+0 @P81@ INDI
+1 NAME Joseph /Murphy/
+1 SEX M
+1 FAMC @F19@
+0 @P82@ INDI
+1 BIRT
+2 DATE 1937
+2 PLAC highgate, Western Australia, Australia
+1 NAME Leonard Charles /Murphy/
+1 SEX M
+1 FAMC @F19@
+0 @P83@ INDI
+1 DEAT
+2 DATE 1931
+2 PLAC Subiaco, Western Australia, Australia
+1 SEX F
+1 NAME Elizabeth /Kelly/
+1 FAMS @F74@
+0 @P84@ INDI
+1 SEX M
+1 NAME Thomas /Hagarty/
+1 FAMS @F74@
+0 @P85@ INDI
+1 BIRT
+2 DATE 1876
+1 DEAT
+2 DATE 27 October 1943
+2 PLAC Western Australia, Australia
+2 SOUR @S-1049145124@
+3 _APID 1,9289::3603432
+1 NAME Mary Ann /McGrath/
+2 SOUR @S-1049145124@
+3 _APID 1,9289::3603432
+1 SEX F
+1 FAMS @F76@
+0 @P86@ INDI
+1 BIRT
+2 DATE 1873
+2 PLAC Singleton, New South Wales, Australia
+2 SOUR @S-1049145124@
+3 _APID 1,9289::3603217
+1 DEAT
+2 DATE 27 November 1936
+2 PLAC Western Australia, Australia
+2 SOUR @S-1049145124@
+3 _APID 1,9289::3603217
+1 NAME George Joseph /Galvin/
+2 SOUR @S-1049145124@
+3 _APID 1,9289::3603217
+1 SEX M
+1 FAMS @F76@
+0 @P87@ INDI
+1 NAME Margaret Roma /Criddle/
+1 SEX F
+1 FAMC @F21@
+0 @P88@ INDI
+1 NAME Martha Ann /Reynolds/
+1 SEX F
+1 MARR
+2 DATE 25 Jul 1904
+2 PLAC Dongara, Western Australia, Australia
+1 DEAT
+2 DATE 17 Oct 1936
+2 PLAC Dongara, Western Australia, Australia
+1 BIRT
+2 DATE 29 Mar 1863
+2 PLAC Moore River,Western Australia
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=532db869-6544-4a05-85f9-20dd0e5606f4&tid=10908437&pid=88
+2 FORM htm
+2 TITL _
+1 FAMC @F24@
+1 FAMS @F22@
+0 @P89@ INDI
+1 SEX M
+1 NAME William /Criddle/
+1 DEAT
+2 DATE 11 Jan 1912
+2 PLAC Guildford, Western Australia, Australia
+1 BIRT
+2 DATE 1843
+2 PLAC Toodyay, Western Australia, Australia
+1 FAMC @F23@
+1 FAMS @F22@
+0 @P90@ INDI
+1 SEX F
+1 NAME Elizabeth /Thomas/
+1 DEAT
+2 DATE 28 Jan 1909
+2 PLAC Dongara, , Western Australia, Australia
+1 BIRT
+2 DATE 26 Nov 1822
+2 PLAC Bristol, Somerset, , England
+1 FAMC @F75@
+1 FAMS @F23@
+0 @P91@ INDI
+1 SEX M
+1 NAME Willia /Criddle/
+1 BIRT
+2 DATE 18 Nov 1804
+2 PLAC Ightham, Kent, , England
+1 DEAT
+2 DATE 12 May 1875
+2 PLAC Greenough, , Western Australia, Australia
+1 FAMC @F27@
+1 FAMS @F23@
+0 @P92@ INDI
+1 NAME Harriet /Kenworthy/
+1 SEX F
+1 BIRT
+2 DATE 1829
+2 PLAC Lower Heinbly Yorkshire UK
+1 DEAT
+2 DATE 12 Nov 1903
+2 PLAC Dongara, Western Australia, Australia
+1 FAMC @F26@
+1 FAMS @F24@
+0 @P93@ INDI
+1 NAME Peter /Reynolds/
+1 SEX M
+1 BIRT
+2 DATE 1825
+2 PLAC Durngawna, Ireland,
+1 DEAT
+2 DATE 2 May 1910
+2 PLAC Geraldton Western Australia
+1 RESI
+2 PLAC South Hiendley, Yorkshire, England
+1 FAMC @F25@
+1 FAMS @F24@
+0 @P94@ INDI
+1 SEX M
+1 NAME William /CRITTAL/
+1 DEAT
+2 DATE 22 Nov 1815
+2 PLAC Ightham, Kent, United Kingdom
+1 BIRT
+2 DATE 15 Dec 1777
+2 PLAC Sundridge, Kent, United Kingdom
+1 FAMC @F28@
+1 FAMS @F27@
+0 @P95@ INDI
+1 SEX F
+1 NAME Sarah /BRATTON/
+1 FAMS @F27@
+0 @P96@ INDI
+1 SEX F
+1 NAME Keziah /Saunders/
+1 FAMS @F75@
+0 @P97@ INDI
+1 SEX M
+1 NAME William /Thomas/
+1 FAMS @F75@
+0 @P98@ INDI
+1 SEX F
+1 NAME Ann /McCartney/
+1 BIRT
+2 PLAC Ireland
+1 FAMS @F25@
+0 @P99@ INDI
+1 SEX M
+1 NAME Francis /Reynolds/
+1 BIRT
+2 DATE 1793
+2 PLAC Leitrim Ireland
+1 FAMS @F25@
+0 @P100@ INDI
+1 SEX F
+1 NAME Ann /Gestt/
+1 FAMS @F26@
+0 @P101@ INDI
+1 NAME Joseph /Kenworthy/
+1 SEX M
+1 FAMS @F26@
+0 @P102@ INDI
+1 SEX M
+1 NAME David /CRITTAL/
+1 DEAT
+2 DATE 7 May 1820
+2 PLAC Brasted, Kent, United Kingdom
+1 BIRT
+2 DATE 4 Oct 1744
+2 PLAC Sundridge, Kent, United Kingdom
+1 FAMC @F29@
+1 FAMS @F28@
+0 @P103@ INDI
+1 NAME Mary /FROUD/
+1 SEX F
+1 DEAT
+2 DATE Apr 1838
+2 PLAC Brasted, Kent, United Kingdom
+1 BIRT
+2 DATE 1743
+2 PLAC United Kingdom
+1 FAMS @F28@
+0 @P104@ INDI
+1 SEX M
+1 NAME William /CRITTAL/
+1 BIRT
+2 DATE 1 Jul 1703
+2 PLAC Sevenoaks, Kent, England
+1 DEAT
+2 DATE 27 Jul 1758
+2 PLAC Sevenoaks, Kent, England
+1 FAMC @F30@
+1 FAMS @F29@
+0 @P105@ INDI
+1 NAME Ann
+1 SEX F
+1 DEAT
+2 PLAC ?
+1 BIRT
+2 DATE 1700
+1 FAMS @F29@
+0 @P106@ INDI
+1 NAME William /CRITTAL/
+1 SEX M
+1 BIRT
+2 DATE 26 Mar 1678
+2 PLAC Sundridge, Kent, United Kingdom
+1 DEAT
+2 DATE 7 Jul 1719
+2 PLAC Sevenoaks, Kent, England
+1 FAMC @F31@
+1 FAMS @F30@
+0 @P107@ INDI
+1 SEX F
+1 NAME Elizabeth
+1 FAMS @F30@
+0 @P108@ INDI
+1 NAME George /CRITTAL/
+1 SEX M
+1 DEAT
+2 DATE 30 Oct 1722
+2 PLAC Sevenoaks, Kent, England
+1 BIRT
+2 DATE 13 Jun 1650
+2 PLAC Wadhurst, Sussex, England
+1 FAMC @F32@
+1 FAMS @F31@
+0 @P109@ INDI
+1 SEX F
+1 NAME Ellen /HARWOOD/
+1 DEAT
+2 DATE 13 Jun 1732
+2 PLAC Sevenoaks, Kent, England
+1 FAMS @F31@
+0 @P110@ INDI
+1 NAME William /CRITTALL/
+1 SEX M
+1 BIRT
+2 DATE 18 Oct 1612
+2 PLAC Wadhurst, Sussex, England
+1 DEAT
+2 DATE 3 Feb 1678
+2 PLAC Wadhurst, Sussex, England
+1 FAMC @F33@
+1 FAMS @F32@
+0 @P111@ INDI
+1 SEX M
+1 NAME Mary /Lampard/
+1 DEAT
+2 DATE 1 May 1656
+2 PLAC Wadhurst, Sussex, England
+1 BIRT
+2 DATE 20 Oct 1618
+2 PLAC Tonbridge, Kent, United Kingdom
+1 FAMS @F32@
+0 @P112@ INDI
+1 SEX M
+1 NAME William Wellans /CRUTTAL/
+1 DEAT
+2 DATE 26 Jun 1651
+2 PLAC Wadhurst, Sussex, England
+1 BIRT
+2 DATE 1590
+2 PLAC Wadhurst, Sussex, England
+1 FAMC @F34@
+1 FAMS @F33@
+0 @P113@ INDI
+1 SEX F
+1 NAME Mary /ELRIDGE/
+1 DEAT
+2 DATE 28 Dec 1652
+2 PLAC Wadhurst, Sussex, England
+1 FAMS @F33@
+0 @P114@ INDI
+1 SEX M
+1 NAME William /CRUTTAL/
+1 DEAT
+2 PLAC ?
+1 BIRT
+2 DATE 1540
+2 PLAC Wadhurst, Sussex, England
+1 FAMC @F35@
+1 FAMS @F34@
+0 @P115@ INDI
+1 SEX F
+1 NAME Mary /UPTON/
+1 DEAT
+2 DATE 13 Sep 1637
+2 PLAC Wadhurst, Sussex, England
+1 BIRT
+2 DATE 1565
+1 FAMS @F34@
+0 @P116@ INDI
+1 SEX M
+1 NAME Christopher /CROTTOL/
+1 DEAT
+2 DATE 1602
+2 PLAC Wadhurst, Sussex, England
+1 BIRT
+2 PLAC Wadhurst, Sussex, England
+1 FAMC @F36@
+1 FAMS @F35@
+0 @P117@ INDI
+1 SEX F
+1 NAME Catherin /WOODYAT/
+1 DEAT
+2 DATE 1602
+2 PLAC Wadhurst, Sussex, England
+1 FAMC @F85@
+1 FAMS @F35@
+0 @P118@ INDI
+1 NAME /?/
+1 SEX F
+1 FAMS @F85@
+0 @P119@ INDI
+1 SEX M
+1 NAME Robert /CROTHOLE/
+1 FAMS @F36@
+0 @P120@ INDI
+1 SEX F
+1 NAME /?/
+1 FAMS @F36@
+0 @P121@ INDI
+1 SEX F
+1 BIRT
+2 DATE 1869
+1 DEAT
+2 DATE 1954
+1 NAME Annie /Hannigan/
+1 FAMC @F86@
+1 FAMS @F41@
+0 @P122@ INDI
+1 SEX M
+1 NAME Martin /Hannaghan/
+1 DEAT Based upon wa registry. Could be wrong as the last name was spelt hannagan
+2 DATE 1937
+2 PLAC Perth, Western Australia, Australia
+1 FAMS @F41@
+0 @P123@ INDI
+1 NAME Thomas /Hannigan/
+1 SEX M
+1 FAMS @F86@
+0 @P124@ INDI
+1 NAME Peter
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=124
+1 FAMS @F81@
+0 @P125@ INDI
+1 SEX M
+1 NAME William /Mitchell/
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=125
+1 FAMS @F82@
+0 @P126@ INDI
+1 SEX M
+1 NAME James /Hannigan/
+1 DEAT
+2 TYPE Death
+2 DATE 1955
+2 PLAC Buried in Botany Cemetary
+1 BIRT
+2 DATE 1875
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=7610119c-30d3-4a86-9054-2694e709d4c9&tid=10908437&pid=126
+2 FORM htm
+2 TITL _
+1 FAMC @F37@
+0 @P127@ INDI
+1 MARR
+2 TYPE Marriage
+2 DATE 31 Jul 1890
+2 PLAC Sligo, Ireland
+1 BIRT
+2 DATE 1862
+1 SEX F
+1 NAME Catherine /Hannigan/
+1 RESI http://www.census.nationalarchives.ie/pages/1911/Sligo/Rossinver_East/Gortnahoula/907814/
+2 DATE 2 Apr 1911
+2 PLAC Rossinver East, Sligo
+1 RESI http://www.census.nationalarchives.ie/pages/1901/Sligo/Rossinver_East/Gortnahoula/1681715/
+2 DATE 31 Mar 1901
+2 PLAC Rossinver East, Sligo, Ireland
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=904c35d8-29e0-4c55-83b7-5105f1524e40&tid=10908437&pid=127
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=f222de8e-8145-4f5a-b312-ad69bbac827d&tid=10908437&pid=127
+2 FORM htm
+2 TITL _
+1 FAMC @F37@
+1 FAMS @F38@
+0 @P128@ INDI
+1 BIRT
+2 DATE abt 1871
+2 PLAC Sligo, Ireland
+2 SOUR @S658909944@
+3 _APID 1,70667::11008118
+1 RESI Relation to Head of House: Daughter
+2 DATE 31 March 1901
+2 PLAC Carney, Sligo, Ireland
+2 SOUR @S658909944@
+3 _APID 1,70667::11008118
+1 NAME Mary /Hannigan/
+2 SOUR @S658909944@
+3 _APID 1,70667::11008118
+1 SEX F
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=0043d610-621a-4994-bb19-5a1b45f57e2a&tid=10908437&pid=128
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=51b061fb-0b69-4131-bb19-58684855e1b5&tid=10908437&pid=128
+2 FORM htm
+2 TITL _
+1 FAMC @F37@
+0 @P129@ INDI
+1 BIRT
+2 DATE 1873
+2 SOUR @S658909944@
+3 _APID 1,70667::11864755
+1 RESI http://www.census.nationalarchives.ie/reels/nai003867828/
+2 DATE 31 March 1901
+2 PLAC Carney, Sligo, Ireland
+2 SOUR @S658909944@
+3 _APID 1,70667::11864755
+1 NAME John /Hannigan/
+2 SOUR @S658909944@
+3 _APID 1,70667::11864755
+1 DEAT Not sure  https://familysearch.org/ark:/61903/1:1:FTRJ-B3J
+2 DATE 1957
+2 PLAC Sligo, Ireland
+1 SEX M
+1 RESI http://www.census.nationalarchives.ie/reels/nai003252615/
+2 DATE 2 Apr 1911
+2 PLAC Carney, Sligo
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=8fce69f1-046b-480a-bad1-16bbb7d006ad&tid=10908437&pid=129
+2 FORM htm
+2 TITL _
+1 FAMC @F37@
+0 @P130@ INDI
+1 BIRT
+2 DATE 1895
+1 SEX F
+1 NAME helen mary /Gallagher/
+1 FAMC @F38@
+0 @P131@ INDI
+1 BIRT
+2 DATE 1898
+1 NAME john patrick /Gallagher/
+1 SEX M
+1 FAMC @F38@
+0 @P132@ INDI
+1 BIRT
+2 DATE 1892
+1 NAME Martin /Gallagher/
+1 SEX M
+1 FAMC @F38@
+0 @P133@ INDI
+1 BIRT
+2 DATE 1854
+1 NAME Hugh /Gallagher/
+1 SEX M
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=f222de8e-8145-4f5a-b312-ad69bbac827d&tid=10908437&pid=133
+2 FORM htm
+2 TITL _
+1 FAMS @F38@
+0 @P134@ INDI
+1 NAME Bridget /Murphy/
+1 SEX F
+1 RESI
+2 DATE 1881
+2 PLAC Kirkdale, Lancashire, England
+1 RESI
+2 TYPE Residence
+2 DATE 1871
+2 PLAC Everton, Lancashire, England
+1 BIRT
+2 DATE 1841
+2 PLAC Ireland
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=ac46304c-ea05-44d8-9434-1e4a45db931e&tid=10908437&pid=134
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=f5c9ddf4-e092-4b10-bafd-0f4e115eac56&tid=10908437&pid=134
+2 FORM htm
+2 TITL _
+1 FAMS @F42@
+0 @P135@ INDI
+1 SEX M
+1 NAME Henry /O'Neill/
+1 RESI
+2 DATE 1901
+2 PLAC Kirkdale, Lancashire, England
+1 RESI
+2 DATE 1891
+2 PLAC Kirkdale, Lancashire, England
+1 RESI
+2 DATE 1881
+2 PLAC Kirkdale, Lancashire, England
+1 RESI
+2 TYPE Residence
+2 DATE 1871
+2 PLAC Everton, Lancashire, England
+1 BIRT
+2 DATE 1837
+2 PLAC Ireland
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=48076108-6e47-4a06-a6e3-3c6244110438&tid=10908437&pid=135
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=6e739cdf-6dfd-4afd-9633-b6f3186af2db&tid=10908437&pid=135
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=daa8567f-24b9-495d-91c4-c6bf1a1e0542&tid=10908437&pid=135
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=f4b33a5e-8354-4f03-8f88-26c3af516999&tid=10908437&pid=135
+2 FORM htm
+2 TITL _
+1 FAMS @F42@
+0 @P136@ INDI
+1 RESI
+2 DATE 02 Apr 1911
+2 PLAC West Derby, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455369&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1896 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455369
+1 BIRT
+2 DATE 1896
+2 PLAC Liverpool, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455369&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1896 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455369
+1 NAME Alfred /Haslem/
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455369&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1896 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455369
+1 SEX M
+1 FAMC @F39@
+0 @P137@ INDI
+1 RESI
+2 DATE 02 Apr 1911
+2 PLAC West Derby, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455375&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1902 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455375
+1 BIRT
+2 DATE 1902
+2 PLAC Liverpool, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455375&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1902 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455375
+1 NAME Albert /Haslem/
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455375&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1902 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455375
+1 SEX M
+1 FAMC @F39@
+0 @P138@ INDI
+1 NAME Dorothy /Haslem/
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455378&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1908 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455378
+1 RESI
+2 DATE 02 Apr 1911
+2 PLAC West Derby, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455378&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1908 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455378
+1 BIRT
+2 DATE 1908
+2 PLAC Liverpool, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455378&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1908 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455378
+1 SEX F
+1 FAMC @F39@
+0 @P139@ INDI
+1 BIRT
+2 DATE 1892
+2 PLAC Liverpool, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455367&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England birth date:  1892 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2352::23455367
+1 RESI
+2 DATE 02 Apr 1911
+2 PLAC West Derby, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455367&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England birth date:  1892 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2352::23455367
+1 NAME George William /Haslem/
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455367&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England birth date:  1892 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2352::23455367
+1 SEX M
+1 FAMC @F39@
+0 @P140@ INDI
+1 RESI
+2 DATE 02 Apr 1911
+2 PLAC West Derby, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455371&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1898 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455371
+1 BIRT
+2 DATE 1898
+2 PLAC Liverpool, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455371&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1898 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455371
+1 NAME Frederick /Haslem/
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455371&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT birth date:  1898 birth place:  Liverpool, Lancashire, England residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England
+3 _APID 1,2352::23455371
+1 SEX M
+1 FAMC @F39@
+0 @P141@ INDI
+1 NAME Thomas Henry /Haslem/
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455364&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England birth date:  1890 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2352::23455364
+1 BIRT
+2 DATE 1890
+2 PLAC Liverpool, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455364&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England birth date:  1890 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2352::23455364
+1 RESI
+2 DATE 02 Apr 1911
+2 PLAC West Derby, Lancashire, England
+2 SOUR @S-1779049742@
+3 PAGE 1911 England Census
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1911england&h=23455364&ti=0&indiv=try&gss=pt
+3 NOTE
+3 DATA
+4 TEXT residence date:  02 Apr 1911 residence place:  West Derby, Lancashire, England birth date:  1890 birth place:  Liverpool, Lancashire, England
+3 _APID 1,2352::23455364
+1 SEX M
+1 FAMC @F39@
+0 @P142@ INDI
+1 SEX M
+1 NAME John Francis (Jacky) /Roberts/
+1 MARR
+2 TYPE Marriage
+2 DATE 1941
+2 PLAC Sydney
+1 DEAT
+2 DATE 27 Nov 1984
+2 PLAC Sydney, New South Wales, Australia
+1 BIRT
+2 DATE 24 Nov 1914
+2 PLAC Sydney, New South Wales, Australia
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=d28a59d5-e250-4fad-802a-d73bcebee4ad&tid=10908437&pid=142
+2 FORM htm
+2 TITL _
+1 FAMC @F43@
+1 FAMS @F40@
+0 @P143@ INDI
+1 SEX F
+1 NAME Nancy Jean /Fitzpatrick/
+1 BIRT
+2 DATE 1916
+2 PLAC ULVERSTONE TASMANIA
+1 DEAT
+2 DATE 2010
+1 MARR
+2 TYPE Marriage
+2 DATE 2 Sep 1941
+2 PLAC CHRIST CHURCH ST LAURENCE, SYDNEY NSW
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=aebe874a-67c4-4e24-81be-c5db437e4333&tid=10908437&pid=143
+2 FORM htm
+2 TITL _
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=e1de10dd-6050-4a27-9baa-50475406d3a2&tid=10908437&pid=143
+2 FORM htm
+2 TITL _
+1 FAMC @F72@
+1 FAMS @F40@
+0 @P144@ INDI
+1 SEX M
+1 NAME Victor /Fitzpatrick/
+1 FAMS @F72@
+0 @P145@ INDI
+1 BIRT
+2 DATE 29 August 1893
+2 PLAC Westbury, Tasmania, Australia
+1 SEX F
+1 NAME Ida May /Waylen/
+1 DEAT
+2 DATE 1975
+2 PLAC New South Wales, Australia
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=9b9be4da-9f1a-4d9c-8c16-84d0552374b2&tid=10908437&pid=145
+2 FORM htm
+2 TITL _
+1 FAMC @F73@
+1 FAMS @F72@
+0 @P146@ INDI
+1 SEX F
+1 NAME Mary Euphemia /Grooms/
+1 DEAT
+2 DATE 17 Jun 1985
+2 PLAC Brisbane, QLD Australia
+1 BIRT
+2 DATE 12 Oct 1892
+2 PLAC Goulburn,  NSW, Australia
+1 FAMC @F59@
+1 FAMS @F43@
+0 @P147@ INDI
+1 SEX M
+1 NAME John David /Roberts/
+1 RESI
+2 PLAC Darling Harbour, West Sydney, New South Wales, Australia
+1 BIRT
+2 DATE 16 Jun 1890
+2 PLAC 13 Clarence Lane, Sydney NSW Australia
+1 DEAT
+2 DATE 1963
+2 PLAC Sydney, NSW, Australia
+1 RESI
+2 PLAC Darling Harbour, West Sydney, New South Wales, Australia
+1 FAMC @F44@
+1 FAMS @F43@
+0 @P148@ INDI
+1 SEX F
+1 NAME Mary Grace /Steer/
+1 RESI
+2 PLAC Campbell St, St Peters Sydney NSW
+1 BIRT
+2 DATE 13 Aug 1867
+2 PLAC Harrington St, Sydney NSW Australia
+1 DEAT
+2 DATE 29 Aug 1937
+2 PLAC 29a Dalgety Tce, Millers Point NSW Australia
+1 FAMC @F45@
+1 FAMS @F44@
+0 @P149@ INDI
+1 SEX M
+1 NAME Evan /Roberts/
+1 RESI
+2 PLAC West Derby, Lancashire, England
+1 DEAT
+2 DATE 13 Dec 1936
+2 PLAC 23A Dalgety Tce, Millers Point, Sydney NSW Australia
+1 BIRT
+2 DATE 1 Mar 1852
+2 PLAC Liverpool, Lancashire, England
+1 RESI
+2 PLAC West Derby, Lancashire, England
+1 FAMC @F46@
+1 FAMS @F44@
+0 @P150@ INDI
+1 NAME Christina /McDonald/
+1 SEX F
+1 DEAT
+2 DATE 12 Jun 1897
+2 PLAC Clyde Vale, Warroo NSW Australia
+1 BIRT
+2 DATE 10 Jun 1858
+2 PLAC Tarlo, County Argyle near Goulburn NSW Australia
+1 FAMC @F61@
+1 FAMS @F59@
+0 @P151@ INDI
+1 SEX M
+1 NAME Benjamin Herbert /Grooms/
+1 DEAT
+2 DATE 16 Mar 1948
+2 PLAC Wigram St., Granville NSW Australia
+1 BIRT
+2 DATE 1865
+2 PLAC Braidwood NSW
+1 FAMC @F60@
+1 FAMS @F57@
+1 FAMS @F58@
+1 FAMS @F59@
+0 @P152@ INDI
+1 NAME Cathrine /Davis/
+1 SEX F
+1 BIRT
+2 DATE 1814
+2 PLAC Denbigh, Denbighshire, Wales
+1 FAMS @F46@
+0 @P153@ INDI
+1 SEX M
+1 NAME William /Roberts/
+1 RESI
+2 PLAC West Derby, Lancashire, England
+1 BIRT
+2 DATE 1814
+2 PLAC Denbigh, Denbighshire, Wales
+1 DEAT
+2 DATE 1891
+2 PLAC West Derby, Lancashire, England
+1 FAMS @F46@
+0 @P154@ INDI
+1 SEX F
+1 NAME Sarah /Flanagan/
+1 DEAT
+2 DATE 19 Mar 1871
+2 PLAC Crescent  St, Balmain, Sydney NSW Australia
+1 BIRT
+2 DATE 1842
+2 PLAC Sydney NSW Australia
+1 FAMC @F49@
+1 FAMS @F45@
+0 @P155@ INDI
+1 SEX M
+1 NAME John /Steer/
+1 RESI
+2 PLAC Pepercombe Farm, Devon, England
+1 DEAT
+2 DATE 1879
+2 PLAC Balmain, New South Wales, Australia
+1 BIRT
+2 DATE 1827
+2 PLAC Bideford, Devon, England UK
+1 FAMC @F47@
+1 FAMS @F45@
+0 @P156@ INDI
+1 NAME Grace /Hortop/
+1 SEX F
+1 RESI
+2 PLAC Bideford, Devon, England
+1 DEAT
+2 DATE 1869
+2 PLAC Bideford, Devon, , England
+1 BIRT
+2 DATE 1786
+2 PLAC Parkham, Devon, , England
+1 FAMC @F50@
+1 FAMS @F47@
+0 @P157@ INDI
+1 NAME Peter /Steer/
+1 SEX M
+1 RESI
+2 PLAC Bideford, Devon, England
+1 DEAT
+2 DATE Sep 1870
+2 PLAC Bideford, Devon, England
+1 BIRT
+2 DATE 1790
+2 PLAC Huntshaw, Devon, England
+1 FAMC @F48@
+1 FAMS @F47@
+0 @P158@ INDI
+1 BIRT
+2 DATE 1808
+2 PLAC co Tipperary, Ireland
+2 SOUR @S-1049145115@
+3 _APID 1,5517::9211
+2 SOUR @S-1049145114@
+3 PAGE State Archives NSW; Series: NRS 12189; Item: [X638]; Microfiche: 719
+3 _APID 1,2024::65485
+1 EVEN
+2 TYPE Arrival
+2 DATE 25 Feb 1836
+2 PLAC New South Wales
+2 SOUR @S-1049145115@
+3 _APID 1,5517::9211
+2 SOUR @S-1049145114@
+3 PAGE State Archives NSW; Series: NRS 12189; Item: [X638]; Microfiche: 719
+3 _APID 1,2024::65485
+1 NAME Mary /Cummins/
+2 SOUR @S-1049145115@
+3 _APID 1,5517::9211
+2 SOUR @S-1049145114@
+3 PAGE State Archives NSW; Series: NRS 12189; Item: [X638]; Microfiche: 719
+3 _APID 1,2024::65485
+1 SEX F
+1 RESI
+2 PLAC New South Wales, Austalia
+1 FAMS @F49@
+0 @P159@ INDI
+1 BIRT
+2 DATE 1797
+2 PLAC County Clare, Ireland
+2 SOUR @S-1049145114@
+3 PAGE State Archives NSW; Series: NRS 12188; Item: [4/4014]; Microfiche: 671
+3 _APID 1,2024::31706
+1 EVEN
+2 TYPE Arrival
+2 DATE 17 Jan 1829
+2 PLAC Sydney Cove
+2 SOUR @S-1049145114@
+3 PAGE State Archives NSW; Series: NRS 12188; Item: [4/4014]; Microfiche: 671
+3 _APID 1,2024::31706
+1 NAME Thomas /Flanagan alias  Moroney/
+2 SOUR @S-1049145114@
+3 PAGE State Archives NSW; Series: NRS 12188; Item: [4/4014]; Microfiche: 671
+3 _APID 1,2024::31706
+1 SEX M
+1 FAMS @F49@
+0 @P160@ INDI
+1 SEX F
+1 NAME Susannah /White/
+1 DEAT
+2 DATE 1839
+2 PLAC Abbottsham,Devon,England
+1 BIRT
+2 DATE 1750
+2 PLAC Devonshire, England, United Kingdom
+1 FAMS @F48@
+0 @P161@ INDI
+1 SEX M
+1 NAME Richard /Steer/
+1 BIRT
+2 DATE 1746
+2 PLAC Devonshire, England, United Kingdom
+1 DEAT
+2 DATE 1833
+2 PLAC Abbottsham,Devon,England
+1 FAMS @F48@
+0 @P162@ INDI
+1 SEX F
+1 NAME Ann Blinch /Jewell/
+1 RESI
+2 PLAC Peppercombe Farm, Parkham, Devon, England
+1 DEAT
+2 DATE 20 Dec 1852
+2 PLAC Parkham, Devon, , England
+1 BIRT
+2 DATE 1763
+2 PLAC Hartland, Devon, England
+1 FAMC @F51@
+1 FAMS @F50@
+0 @P163@ INDI
+1 SEX M
+1 NAME Thomas /Hortop/
+1 BIRT
+2 DATE 1760
+2 PLAC Parkham, Devon, , England
+1 DEAT
+2 DATE 10 Sep 1798
+2 PLAC Parkham, Devon, , England
+1 FAMC @F52@
+1 FAMS @F50@
+0 @P164@ INDI
+1 SEX F
+1 NAME Ann /Spearman/
+1 DEAT
+2 DATE 1770
+2 PLAC Parkham, Devon, , England
+1 FAMS @F52@
+0 @P165@ INDI
+1 NAME John /Hortop/
+1 SEX M
+1 DEAT
+2 DATE 10 May 1765
+2 PLAC Parkham, Devon, , England
+1 BIRT
+2 DATE 1712
+2 PLAC Parkham, Devon, , England
+1 FAMS @F52@
+0 @P166@ INDI
+1 SEX F
+1 NAME Grace /Harris/
+1 BIRT
+2 DATE 1728
+2 PLAC Hartland, Devon, , England
+1 FAMS @F51@
+0 @P167@ INDI
+1 SEX M
+1 NAME Thomas /Jewell/
+1 DEAT
+2 DATE 1832
+2 PLAC Hartland, Devon, , England
+1 BIRT
+2 DATE 1729
+2 PLAC , Devon, , England
+1 FAMC @F53@
+1 FAMS @F51@
+0 @P168@ INDI
+1 SEX F
+1 NAME Susannah /Blinch/
+1 DEAT
+2 DATE 1750
+2 PLAC Parkham, Devon, , England
+1 BIRT
+2 DATE 1687
+2 PLAC Buckland Brewer, Devon, , England
+1 FAMC @F55@
+1 FAMS @F53@
+0 @P169@ INDI
+1 SEX M
+1 NAME Thomas Rowe /Jewell/
+1 DEAT
+2 DATE 26 Feb 1733
+2 PLAC Hartland, Devon, , England
+1 BIRT
+2 DATE 1703
+2 PLAC , Devon, , England
+1 FAMC @F54@
+1 FAMS @F53@
+0 @P170@ INDI
+1 SEX F
+1 NAME Sarah /Rowe/
+1 DEAT
+2 DATE 1748
+2 PLAC Bideford, Devon, , England
+1 BIRT
+2 DATE 1666
+2 PLAC Bideford, Devon, , England
+1 FAMS @F54@
+0 @P171@ INDI
+1 NAME Thomas /Jewell/
+1 SEX M
+1 BIRT
+2 DATE 1666
+2 PLAC Bideford, Devon, , England
+1 DEAT
+2 DATE 1711
+2 PLAC St. Germans, Devon, England,
+1 FAMC @F56@
+1 FAMS @F54@
+0 @P172@ INDI
+1 SEX F
+1 NAME Ann
+1 FAMS @F55@
+0 @P173@ INDI
+1 NAME William /Blinch/
+1 SEX M
+1 BIRT
+2 DATE 4 Jun 1661
+2 PLAC Buckland Brewer, Devon, , England
+1 FAMS @F55@
+0 @P174@ INDI
+1 SEX F
+1 NAME Elizabeth /Martin/
+1 BIRT
+2 DATE 1650
+1 FAMS @F56@
+0 @P175@ INDI
+1 SEX M
+1 NAME Gregory /Jewell/
+1 BIRT
+2 DATE 1640
+1 FAMS @F56@
+0 @P176@ INDI
+1 NAME Ethel /Field/
+1 SEX F
+1 FAMS @F57@
+0 @P177@ INDI
+1 DEAT
+2 DATE 1907
+2 PLAC Liverpool, New South Wales, Australia
+1 BIRT
+2 DATE 1869
+2 PLAC Yass, New South Wales, Australia
+1 NAME Emily /Coleman/
+1 SEX F
+1 FAMS @F58@
+0 @P178@ INDI
+1 DEAT
+2 DATE 1973
+1 BIRT
+2 DATE 1895
+1 SEX M
+1 NAME John Herbert /Grooms/
+1 FAMC @F59@
+0 @P179@ INDI
+1 BIRT
+2 DATE 1890
+1 SEX F
+1 NAME Jeannie C  /Grooms/
+1 FAMC @F59@
+0 @P180@ INDI
+1 BIRT
+2 DATE 1828
+2 PLAC Nottingham, Northamptonshire, England
+2 SOUR @S-1049292674@
+3 PAGE State Records Authority of New South Wales; Kingswood New South Wales, Australia; Persons on bounty ships to Sydney, Newcastle, and Moreton Bay (Board's Immigrant Lists); Series: 5317; Reel: 2463; Ite
+4 CONC m: [4/4925]
+3 _APID 1,1204::291730
+1 EVEN
+2 TYPE Arrival
+2 DATE 9 Jul 1852
+2 SOUR @S-1049292674@
+3 PAGE State Records Authority of New South Wales; Kingswood New South Wales, Australia; Persons on bounty ships to Sydney, Newcastle, and Moreton Bay (Board's Immigrant Lists); Series: 5317; Reel: 2463; Ite
+4 CONC m: [4/4925]
+3 _APID 1,1204::291730
+1 NAME Mary Ann /Hulsdon/
+2 SOUR @S-1049292674@
+3 PAGE State Records Authority of New South Wales; Kingswood New South Wales, Australia; Persons on bounty ships to Sydney, Newcastle, and Moreton Bay (Board's Immigrant Lists); Series: 5317; Reel: 2463; Ite
+4 CONC m: [4/4925]
+3 _APID 1,1204::291730
+1 SEX F
+1 RESI
+2 PLAC Hoveringham, Nottinghamshire, England
+1 DEAT
+2 DATE 1885
+2 PLAC Goulburn, New South Wales
+1 FAMS @F60@
+0 @P181@ INDI
+1 BIRT
+2 DATE 1828
+2 PLAC Wilshamstead, Bedfordshire, England, ,
+2 SOUR @S-1049292674@
+3 PAGE State Records Authority of New South Wales; Kingswood New South Wales, Australia; Persons on bounty ships (Agent's Immigrant Lists); Series: 5316; Reel: 2136; Item: [4/4790]
+3 _APID 1,1204::111588
+1 EVEN
+2 TYPE Arrival
+2 DATE 6 Jul 1852
+2 SOUR @S-1049292674@
+3 PAGE State Records Authority of New South Wales; Kingswood New South Wales, Australia; Persons on bounty ships (Agent's Immigrant Lists); Series: 5316; Reel: 2136; Item: [4/4790]
+3 _APID 1,1204::111588
+1 NAME Edward Cooper /Grooms/
+2 SOUR @S-1049292674@
+3 PAGE State Records Authority of New South Wales; Kingswood New South Wales, Australia; Persons on bounty ships (Agent's Immigrant Lists); Series: 5316; Reel: 2136; Item: [4/4790]
+3 _APID 1,1204::111588
+1 SEX M
+1 RESI
+2 PLAC Wilshampstead, Bedfordshire, England
+1 DEAT
+2 DATE 1866
+2 PLAC Braidwood, New South Wales
+1 FAMC @F62@
+1 FAMS @F60@
+0 @P182@ INDI
+1 SEX F
+1 NAME Christina "Cirsty" /McCallum/
+1 DEAT
+2 DATE 24 Jul 1861
+2 PLAC Tarlo, New South Wales, Australia
+1 BIRT
+2 DATE 16 Nov 1816
+2 PLAC Kilfinichen &amp; Kilvickeon, Isle of Mull Argyleshire Scotland,
+1 FAMC @F70@
+1 FAMS @F61@
+0 @P183@ INDI
+1 SEX M
+1 NAME Alexander /McDonald/
+1 RESI
+2 PLAC Tarlo, County Argyle NSW Australia
+1 DEAT
+2 DATE 1 Oct 1873
+2 PLAC Wagga Wagga, New South Wales, Australia
+1 BIRT
+2 DATE 17 Jun 1817
+2 PLAC Bridge End, Rosshire, Scotland
+1 FAMC @F66@
+1 FAMS @F61@
+0 @P184@ INDI
+1 BIRT
+2 DATE 27 Mar 1796
+2 PLAC Wilstead, Bedfordshire, England
+2 SOUR @S-1774651822@
+3 _APID 1,8914::14004911
+1 DEAT
+2 DATE January 1875
+2 PLAC Bedfordshire, United Kingdom,
+2 SOUR @S-1774651822@
+3 _APID 1,8914::14004911
+1 NAME Elizabeth /Cooper/
+2 SOUR @S-1774651822@
+3 _APID 1,8914::14004911
+1 SEX F
+1 RESI
+2 PLAC Wilshampstead, Bedfordshire, England
+1 FAMC @F63@
+1 FAMS @F62@
+0 @P185@ INDI
+1 SEX M
+1 NAME Thomas /Grooms/
+1 RESI
+2 PLAC Wilshampstead, Bedfordshire, England
+1 BIRT
+2 DATE 1783
+2 PLAC Wilshampstead, Bedfordshire, England,
+1 DEAT
+2 DATE 10 Jan 1869
+2 PLAC Wilshampstead, Bedfordshire, England,
+1 FAMS @F62@
+0 @P186@ INDI
+1 SEX F
+1 NAME Mary /Campbell/
+1 DEAT
+2 DATE 1865
+2 PLAC Tarlo, , New South Wales, Australia
+1 BIRT
+2 DATE 29 Jan 1795
+2 PLAC Fearn nr Dornoch, Ross and Cromarty, Scotland,
+1 FAMC @F68@
+1 FAMS @F66@
+0 @P187@ INDI
+1 SEX M
+1 NAME Donald  /McDonald/
+1 DEAT
+2 DATE 9 Aug 1865
+2 PLAC Tarlo, New South Wales, Australia
+1 BIRT
+2 DATE 1795
+2 PLAC Dornoch, Ross & Cromarty, , Scotland
+1 FAMC @F67@
+1 FAMS @F66@
+0 @P188@ INDI
+1 SEX M
+1 NAME Duncan /McCallum/
+1 DEAT
+2 DATE 25 Nov 1854
+2 PLAC Cotta Wallah, near Goulburn NSW
+1 BIRT
+2 DATE 12 Nov 1790
+2 PLAC Cragaig Mull Argyleshire Scotland
+1 FAMC @F69@
+1 FAMS @F70@
+0 @P189@ INDI
+1 BIRT
+2 DATE 1799
+2 PLAC Kilninian and Kilmore, Isle of Mull, Scotland
+2 SOUR @S-1049292674@
+3 PAGE State Records Authority of New South Wales; Kingswood New South Wales, Australia; Entitlement certificates of persons on bounty ships; Series: 5314; Reel: 1299
+3 _APID 1,1204::38094
+2 SOUR @S-1049145110@
+3 _APID 1,70699::5093830
+1 DEAT
+2 DATE 3 October 1851
+2 PLAC Cotta Wallah, near Goulburn NSW
+2 SOUR @S-1049145110@
+3 _APID 1,70699::5093830
+1 BURI
+2 PLAC Goulburn, New South Wales, Australia
+2 SOUR @S-1049145110@
+3 _APID 1,70699::5093830
+1 NAME Catherine /Ferguson/
+2 SOUR @S-1049292674@
+3 PAGE State Records Authority of New South Wales; Kingswood New South Wales, Australia; Entitlement certificates of persons on bounty ships; Series: 5314; Reel: 1299
+3 _APID 1,1204::38094
+2 SOUR @S-1049145110@
+3 _APID 1,70699::5093830
+1 EVEN
+2 TYPE Arrival
+2 DATE 28 Feb 1839
+2 SOUR @S-1049292674@
+3 PAGE State Records Authority of New South Wales; Kingswood New South Wales, Australia; Entitlement certificates of persons on bounty ships; Series: 5314; Reel: 1299
+3 _APID 1,1204::38094
+1 SEX F
+1 FAMC @F71@
+1 FAMS @F70@
+0 @P190@ INDI
+1 SEX F
+1 NAME Mary /Cartwright/
+1 BIRT
+2 DATE 26 Feb 1764
+2 PLAC Aspley Guise, Bedford, England
+1 FAMC @F65@
+1 FAMS @F63@
+0 @P191@ INDI
+1 NAME Purkins /Cooper/
+1 SEX M
+1 BIRT
+2 DATE 1764
+2 PLAC Wilshamstead, Bedfordshire, England
+1 DEAT
+2 DATE 1841
+2 PLAC Bedfordshire, England
+1 FAMC @F64@
+1 FAMS @F63@
+0 @P192@ INDI
+1 NAME Ann /Jackson/
+1 SEX F
+1 BIRT
+2 DATE 21 Jan 1733
+2 PLAC Wilshamstead, Bedfordshire, England
+1 FAMS @F64@
+0 @P193@ INDI
+1 SEX M
+1 NAME John /Perkins/
+1 BIRT
+2 DATE 1744
+2 PLAC Elstow, Bedfordshire, England
+1 FAMS @F64@
+0 @P194@ INDI
+1 NAME Alice /Stringer/
+1 SEX F
+1 DEAT
+2 DATE 1805
+2 PLAC Bedfordshire, England
+1 BIRT
+2 DATE 1737
+2 PLAC Lidington, Bedford, England
+1 FAMS @F65@
+0 @P195@ INDI
+1 SEX M
+1 NAME Edward /Cartwright/
+1 BIRT
+2 DATE 1737
+2 PLAC Lidington, Bedford, England
+1 DEAT
+2 DATE 1777
+2 PLAC Lidlington, Bedfordshire
+1 FAMS @F65@
+0 @P196@ INDI
+1 SEX F
+1 NAME Isabel /Cameron/
+1 BIRT
+2 PLAC Scotland
+1 FAMS @F67@
+0 @P197@ INDI
+1 SEX M
+1 NAME Alexander /McDonald/
+1 BIRT
+2 PLAC Scotland
+1 FAMS @F67@
+0 @P198@ INDI
+1 SEX F
+1 NAME Isabel /Ross/
+1 BIRT
+2 PLAC Scotland
+1 FAMS @F68@
+0 @P199@ INDI
+1 SEX M
+1 NAME Charles /Campbell/
+1 FAMS @F68@
+0 @P200@ INDI
+1 NAME Ann
+1 SEX F
+1 BIRT
+2 PLAC Scotland
+1 FAMS @F71@
+0 @P201@ INDI
+1 SEX M
+1 NAME Archibald /Ferguson/
+1 BIRT
+2 PLAC Scotland
+1 FAMS @F71@
+0 @P202@ INDI
+1 SEX M
+1 NAME Malcolm /McCallum/
+1 BIRT
+2 DATE 1744
+2 PLAC Scotland
+1 FAMS @F69@
+0 @P203@ INDI
+1 SEX F
+1 NAME Ann /Lamont/
+1 BIRT
+2 PLAC Scotland
+1 FAMS @F69@
+0 @P204@ INDI
+1 SEX M
+1 NAME Denis William /Waylen/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=149c900b-1f8e-4e4a-baf5-3216b99d1465&tid=10908437&pid=204
+2 FORM htm
+2 TITL TBC
+1 FAMS @F73@
+0 @P205@ INDI
+1 SEX F
+1 NAME Mary Elizabeth /Rudd/
+1 FAMS @F73@
+0 @P206@ INDI
+1 DEAT
+2 DATE 1942 June 9
+2 PLAC Turtle Creek, Allegheny County, Pennsylvania
+1 BIRT
+2 DATE 1871 Feb 17
+2 PLAC Pittsburgh, Allegheny Co, PA
+1 NAME Thomas A /Orgill/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=206
+1 FAMC @F78@
+1 FAMS @F77@
+0 @P207@ INDI
+1 BIRT
+2 DATE 31 Mar 1897
+2 PLAC Pittsburgh, Allegheny County, Pennsylvania
+1 DEAT
+2 DATE 15 Sep 1970
+2 PLAC Pittsburgh, Allegheny County, Pennsylvania
+1 NAME Marie /Orgill/
+1 SEX F
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=207
+1 FAMC @F77@
+0 @P208@ INDI
+1 BIRT
+2 DATE 27 August 1899
+2 PLAC Homewood, Allegheny County, Pennsylvania
+1 DEAT
+2 DATE 20 November 1961
+2 PLAC Swissvale, Pennsylvania, USA
+1 NAME Joseph /Orgill/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=208
+1 FAMC @F77@
+0 @P209@ INDI
+1 BIRT
+2 DATE 28 NOV 1842
+2 PLAC Liverpool, Lancashire, England
+1 DEAT
+2 DATE 7 AUG 1908
+2 PLAC Verona, Allegheny, Pennsylvania, USA
+1 NAME Martha L /Connolly/
+1 SEX F
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=209
+1 FAMS @F78@
+0 @P210@ INDI
+1 DEAT
+2 DATE 14 APR 1899
+2 PLAC Lawrenceville, Pittsburgh, Allegheny
+1 BIRT
+2 DATE 15 JUL 1841
+2 PLAC Wednesbury, Staffordshire, England
+1 NAME Austin /Orgill/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=210
+1 FAMS @F78@
+0 @P211@ INDI
+1 DEAT
+2 DATE 2 Apr 1981
+2 PLAC Pittsburgh, Allegheny, Pennsylvania, USA
+1 BIRT
+2 DATE 18 Aug 1884
+2 PLAC Pittsburgh, Allegheny, Pennsylvania, USA
+1 NAME Helen /Orgill Marcacci/
+1 SEX F
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=211
+1 FAMC @F78@
+0 @P212@ INDI
+1 DEAT
+2 DATE 24 Mar 1878
+2 PLAC Pittsburgh Allegheny Co PA
+1 BIRT
+2 DATE 24 Mar 1877
+2 PLAC Pittsburgh, Allegheny Co, PA
+1 NAME Agnes /Orgill/
+1 SEX F
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=212
+1 FAMC @F78@
+0 @P213@ INDI
+1 DEAT
+2 DATE 24 Jan 1878
+2 PLAC Pittsburgh Allegheny Co PA
+1 BIRT
+2 DATE 06 Jan 1878
+2 PLAC Pittsburgh Allegheny Co PA
+1 NAME Lawrence /Orgill/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=213
+1 FAMC @F78@
+0 @P214@ INDI
+1 DEAT
+2 DATE 17 Sept 1876
+2 PLAC Pittsburgh, Allegheny Co, PA
+1 BIRT
+2 DATE 17 Sept 1875
+1 NAME John /Orgill/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=214
+1 FAMC @F78@
+0 @P215@ INDI
+1 BIRT
+2 DATE 8 Jul 1875
+2 PLAC Pittsburgh Allegheny Co PA
+1 DEAT
+2 DATE 4 Nov 1881
+2 PLAC Pittsburgh Allegheny Co PA
+1 NAME Teresa /Orgill/
+1 SEX F
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=215
+1 FAMC @F78@
+0 @P216@ INDI
+1 BIRT
+2 DATE 18 Oct 1881
+2 PLAC Pittsburgh Allegheny Co PA
+1 DEAT
+2 DATE 17 Mar 1887
+1 NAME Edward /Orgill/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=216
+1 FAMC @F78@
+0 @P217@ INDI
+1 DEAT
+2 DATE 19 Jan 1870
+2 PLAC Brazil
+1 BIRT
+2 DATE 31 Aug 1868
+2 PLAC Brazil
+1 NAME Joseph /Orgill/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=217
+1 FAMC @F78@
+0 @P218@ INDI
+1 DEAT
+2 DATE Oct 1974
+2 PLAC Farmingdale, Nassau, New York, United States of America
+1 BIRT
+2 DATE 07 Apr 1888
+2 PLAC Pittsburgh, Allegheny, Pennsylvania, USA
+1 NAME William Austin /Orgill/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=218
+1 FAMC @F78@
+0 @P219@ INDI
+1 BIRT
+2 DATE 12 Nov 1866
+2 PLAC England
+1 DEAT
+2 DATE 20 Jan 1870
+2 PLAC Brazil
+1 NAME Mary /Orgill/
+1 SEX F
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=219
+1 FAMC @F78@
+0 @P220@ INDI
+1 DEAT
+2 DATE 31 Mar 1942
+2 PLAC Maple Heights, Cuyahoga, Ohio, USA
+1 BIRT
+2 DATE 8 Apr 1879
+2 PLAC Pennsylvania
+1 NAME Leo Joseph /Orgill/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=220
+1 FAMC @F78@
+0 @P221@ INDI
+1 BIRT
+2 DATE 18 Dec 1872
+2 PLAC Pennsylvania
+1 DEAT
+2 DATE 14 Oct 1879
+2 PLAC Pittsburgh Allegheny Co PA
+1 NAME Vincent /Orgill/
+1 SEX M
+1 SOUR @S658572987@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=10908437&pid=221
+1 FAMC @F78@
+0 @F1@ FAM
+1 HUSB @P1@
+1 WIFE @P6@
+1 CHIL @P3@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P2@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 11 Oct 2002
+0 @F2@ FAM
+1 HUSB @P5@
+1 WIFE @P4@
+1 CHIL @P1@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P8@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P7@
+2 _FREL Natural
+2 _MREL Natural
+0 @F3@ FAM
+1 HUSB @P12@
+1 WIFE @P11@
+1 CHIL @P4@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1936
+2 PLAC Perth, Western Australia, Australia
+0 @F4@ FAM
+1 HUSB @P16@
+1 WIFE @P15@
+1 CHIL @P21@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P23@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P22@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P24@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P20@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P12@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P19@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1886
+0 @F5@ FAM
+1 HUSB @P10@
+1 WIFE @P9@
+1 CHIL @P26@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P5@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P28@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE About 1927
+0 @F6@ FAM
+1 HUSB @P27@
+1 WIFE @P26@
+1 MARR Source: http://www.bdm.nsw.gov.au/cgi-bin/IndexSearch?form=IndexingSearch&SessionID=35623713&event=marriages&sname=&gname=&fname=Mcdonough&mname=&frange=1945&trange=1961&place=&submitBtnOnce.x=81&submitBtnOnce.y=12
+2 DATE 1956
+2 PLAC Sydney, New South Wales, Australia
+0 @F7@ FAM
+1 HUSB @P30@
+1 WIFE @P29@
+1 CHIL @P35@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P10@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P36@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P34@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 29 Apr 1899
+2 PLAC West Derby, Lancashire, England
+0 @F8@ FAM
+1 HUSB @P13@
+1 WIFE @P14@
+1 CHIL @P6@
+2 _FREL Natural
+2 _MREL Natural
+0 @F9@ FAM
+1 HUSB @P36@
+1 WIFE @P44@
+1 MARR REG_WD/477/6 http://www.freebmd.org.uk/cgi/information.pl?scan=1&r=161479758:6061&d=bmd_1487153575
+2 DATE Mar 1930
+2 PLAC West Derby
+0 @F10@ FAM
+1 HUSB @P18@
+1 WIFE @P17@
+1 CHIL @P48@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P47@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P16@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P46@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P45@
+2 _FREL Natural
+2 _MREL Natural
+0 @F11@ FAM
+1 HUSB @P32@
+1 WIFE @P31@
+1 CHIL @P51@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P9@
+2 _FREL Natural
+2 _MREL Natural
+0 @F12@ FAM
+1 HUSB @P39@
+1 WIFE @P38@
+1 CHIL @P56@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P57@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P30@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P55@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P54@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P53@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P52@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 12 Feb 1861
+2 PLAC KILCONDUFF  SWINFORD, Co, Mayo, Ireland
+0 @F13@ FAM
+1 HUSB @P56@
+1 WIFE @P60@
+1 CHIL @P62@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P61@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 12 Nov 1891
+2 PLAC Allegheny, Pennsylvania, USA
+0 @F14@ FAM
+1 HUSB @P55@
+1 WIFE @P63@
+1 CHIL @P64@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR http://www.freebmd.org.uk/cgi/search.pl?start=1902&end=1902&sq=4&eq=4&type=Marriages&vol=8b&pgno=243&db=bmd_1487153575&jsexec=1&mono=0&v=MTQ4ODIwNDc3NzphMzhmZGI3ZDA1ODRlMGNkZjRmMWZlYTdhMWJmOWY4NzYxYTE4MzYy&searchdef=type%3DMarriages%26db%3Dbmd_1487153575%2
+2 DATE Dec 1902
+2 PLAC Liverpool, Lancashire, England
+0 @F15@ FAM
+1 HUSB @P54@
+1 WIFE @P65@
+1 MARR http://www.census.nationalarchives.ie/pages/1911/Mayo/Ardlee/Killedan/738642/
+2 DATE 30 Apr 1910
+0 @F16@ FAM
+1 HUSB @P8@
+1 WIFE @P70@
+0 @F17@ FAM
+1 HUSB @P59@
+1 WIFE @P58@
+1 CHIL @P38@
+2 _FREL Natural
+2 _MREL Natural
+0 @F18@ FAM
+1 HUSB @P41@
+1 WIFE @P40@
+1 CHIL @P11@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P73@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P77@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P78@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P76@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1897
+2 PLAC Broome, Western Australia, Australia
+0 @F19@ FAM
+1 HUSB @P76@
+1 WIFE @P79@
+1 CHIL @P80@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P81@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P82@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1931
+2 PLAC Perth, Western Australia, Australia
+0 @F20@ FAM
+1 HUSB @P75@
+1 WIFE @P74@
+1 CHIL @P41@
+2 _FREL Natural
+2 _MREL Natural
+0 @F21@ FAM
+1 HUSB @P43@
+1 WIFE @P42@
+1 CHIL @P13@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P87@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR Source: http://www.bdm.dotag.wa.gov.au/_apps/pioneersindex/default.aspx
+2 DATE 1934
+2 PLAC Perth, Western Australia, Australia
+0 @F22@ FAM
+1 HUSB @P89@
+1 WIFE @P88@
+1 CHIL @P43@
+2 _FREL Natural
+2 _MREL Natural
+0 @F23@ FAM
+1 HUSB @P91@
+1 WIFE @P90@
+1 CHIL @P89@
+2 _FREL Natural
+2 _MREL Natural
+0 @F24@ FAM
+1 HUSB @P93@
+1 WIFE @P92@
+1 CHIL @P88@
+2 _FREL Natural
+2 _MREL Natural
+0 @F25@ FAM
+1 HUSB @P99@
+1 WIFE @P98@
+1 CHIL @P93@
+2 _FREL Natural
+2 _MREL Natural
+0 @F26@ FAM
+1 HUSB @P101@
+1 WIFE @P100@
+1 CHIL @P92@
+2 _FREL Natural
+2 _MREL Natural
+0 @F27@ FAM
+1 HUSB @P94@
+1 WIFE @P95@
+1 CHIL @P91@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 26 Dec 1803
+2 PLAC Stansted, Essex, United Kingdom
+0 @F28@ FAM
+1 HUSB @P102@
+1 WIFE @P103@
+1 CHIL @P94@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 3 Jul 1771
+2 PLAC Addington, Kent, England
+0 @F29@ FAM
+1 HUSB @P104@
+1 WIFE @P105@
+1 CHIL @P102@
+2 _FREL Natural
+2 _MREL Natural
+0 @F30@ FAM
+1 HUSB @P106@
+1 WIFE @P107@
+1 CHIL @P104@
+2 _FREL Natural
+2 _MREL Natural
+0 @F31@ FAM
+1 HUSB @P108@
+1 WIFE @P109@
+1 CHIL @P106@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 17 May 1677
+2 PLAC Sevenoaks, Kent, England
+0 @F32@ FAM
+1 HUSB @P110@
+1 WIFE @P111@
+1 CHIL @P108@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 24 Oct 1609
+2 PLAC Cranbrook, Kent, England
+0 @F33@ FAM
+1 HUSB @P112@
+1 WIFE @P113@
+1 CHIL @P110@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 24 Oct 1609
+2 PLAC Cranbrook, Kent, England
+0 @F34@ FAM
+1 HUSB @P114@
+1 WIFE @P115@
+1 CHIL @P112@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 3 May 1616
+2 PLAC Wadhurst, Sussex, England
+0 @F35@ FAM
+1 HUSB @P116@
+1 WIFE @P117@
+1 CHIL @P114@
+2 _FREL Natural
+2 _MREL Natural
+0 @F36@ FAM
+1 HUSB @P119@
+1 WIFE @P120@
+1 CHIL @P116@
+2 _FREL Natural
+2 _MREL Natural
+0 @F37@ FAM
+1 HUSB @P50@
+1 WIFE @P49@
+1 CHIL @P127@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P32@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P128@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P129@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P126@
+2 _FREL Natural
+2 _MREL Natural
+0 @F38@ FAM
+1 HUSB @P133@
+1 WIFE @P127@
+1 CHIL @P132@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P130@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P131@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 31 Jul 1890
+2 PLAC Sligo, Ireland
+0 @F39@ FAM
+1 HUSB @P72@
+1 WIFE @P71@
+1 CHIL @P141@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P139@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P136@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P140@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P44@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P137@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P138@
+2 _FREL Natural
+2 _MREL Natural
+0 @F40@ FAM
+1 HUSB @P142@
+1 WIFE @P143@
+1 CHIL @P14@
+2 _FREL Natural
+2 _MREL Natural
+0 @F41@ FAM
+1 HUSB @P122@
+1 WIFE @P121@
+1 CHIL @P42@
+2 _FREL Natural
+2 _MREL Natural
+0 @F42@ FAM
+1 HUSB @P135@
+1 WIFE @P134@
+1 CHIL @P31@
+2 _FREL Natural
+2 _MREL Natural
+0 @F43@ FAM
+1 HUSB @P147@
+1 WIFE @P146@
+1 CHIL @P142@
+2 _FREL Natural
+2 _MREL Natural
+0 @F44@ FAM
+1 HUSB @P149@
+1 WIFE @P148@
+1 CHIL @P147@
+2 _FREL Natural
+2 _MREL Natural
+0 @F45@ FAM
+1 HUSB @P155@
+1 WIFE @P154@
+1 CHIL @P148@
+2 _FREL Natural
+2 _MREL Natural
+0 @F46@ FAM
+1 HUSB @P153@
+1 WIFE @P152@
+1 CHIL @P149@
+2 _FREL Natural
+2 _MREL Natural
+0 @F47@ FAM
+1 HUSB @P157@
+1 WIFE @P156@
+1 CHIL @P155@
+2 _FREL Natural
+2 _MREL Natural
+0 @F48@ FAM
+1 HUSB @P161@
+1 WIFE @P160@
+1 CHIL @P157@
+2 _FREL Natural
+2 _MREL Natural
+0 @F49@ FAM
+1 HUSB @P159@
+1 WIFE @P158@
+1 CHIL @P154@
+2 _FREL Natural
+2 _MREL Natural
+0 @F50@ FAM
+1 HUSB @P163@
+1 WIFE @P162@
+1 CHIL @P156@
+2 _FREL Natural
+2 _MREL Natural
+0 @F51@ FAM
+1 HUSB @P167@
+1 WIFE @P166@
+1 CHIL @P162@
+2 _FREL Natural
+2 _MREL Natural
+0 @F52@ FAM
+1 HUSB @P165@
+1 WIFE @P164@
+1 CHIL @P163@
+2 _FREL Natural
+2 _MREL Natural
+0 @F53@ FAM
+1 HUSB @P169@
+1 WIFE @P168@
+1 CHIL @P167@
+2 _FREL Natural
+2 _MREL Natural
+0 @F54@ FAM
+1 HUSB @P171@
+1 WIFE @P170@
+1 CHIL @P169@
+2 _FREL Natural
+2 _MREL Natural
+0 @F55@ FAM
+1 HUSB @P173@
+1 WIFE @P172@
+1 CHIL @P168@
+2 _FREL Natural
+2 _MREL Natural
+0 @F56@ FAM
+1 HUSB @P175@
+1 WIFE @P174@
+1 CHIL @P171@
+2 _FREL Natural
+2 _MREL Natural
+0 @F57@ FAM
+1 HUSB @P151@
+1 WIFE @P176@
+1 MARR
+2 DATE 1908
+2 PLAC Sydney, NSW, Australia
+0 @F58@ FAM
+1 HUSB @P151@
+1 WIFE @P177@
+1 MARR
+2 DATE 1899
+2 PLAC Goulburn,  NSW, Australia
+0 @F59@ FAM
+1 HUSB @P151@
+1 WIFE @P150@
+1 CHIL @P179@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P146@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P178@
+2 _FREL Natural
+2 _MREL Natural
+0 @F60@ FAM
+1 HUSB @P181@
+1 WIFE @P180@
+1 CHIL @P151@
+2 _FREL Natural
+2 _MREL Natural
+0 @F61@ FAM
+1 HUSB @P183@
+1 WIFE @P182@
+1 CHIL @P150@
+2 _FREL Natural
+2 _MREL Natural
+0 @F62@ FAM
+1 HUSB @P185@
+1 WIFE @P184@
+1 CHIL @P181@
+2 _FREL Natural
+2 _MREL Natural
+0 @F63@ FAM
+1 HUSB @P191@
+1 WIFE @P190@
+1 CHIL @P184@
+2 _FREL Natural
+2 _MREL Natural
+0 @F64@ FAM
+1 HUSB @P193@
+1 WIFE @P192@
+1 CHIL @P191@
+2 _FREL Natural
+2 _MREL Natural
+0 @F65@ FAM
+1 HUSB @P195@
+1 WIFE @P194@
+1 CHIL @P190@
+2 _FREL Natural
+2 _MREL Natural
+0 @F66@ FAM
+1 HUSB @P187@
+1 WIFE @P186@
+1 CHIL @P183@
+2 _FREL Natural
+2 _MREL Natural
+0 @F67@ FAM
+1 HUSB @P197@
+1 WIFE @P196@
+1 CHIL @P187@
+2 _FREL Natural
+2 _MREL Natural
+0 @F68@ FAM
+1 HUSB @P199@
+1 WIFE @P198@
+1 CHIL @P186@
+2 _FREL Natural
+2 _MREL Natural
+0 @F69@ FAM
+1 HUSB @P202@
+1 WIFE @P203@
+1 CHIL @P188@
+2 _FREL Natural
+2 _MREL Natural
+0 @F70@ FAM
+1 HUSB @P188@
+1 WIFE @P189@
+1 CHIL @P182@
+2 _FREL Natural
+2 _MREL Natural
+0 @F71@ FAM
+1 HUSB @P201@
+1 WIFE @P200@
+1 CHIL @P189@
+2 _FREL Natural
+2 _MREL Natural
+0 @F72@ FAM
+1 HUSB @P144@
+1 WIFE @P145@
+1 CHIL @P143@
+2 _FREL Natural
+2 _MREL Natural
+0 @F73@ FAM
+1 HUSB @P204@
+1 WIFE @P205@
+1 CHIL @P145@
+2 _FREL Natural
+2 _MREL Natural
+0 @F74@ FAM
+1 HUSB @P84@
+1 WIFE @P83@
+1 CHIL @P40@
+2 _FREL Natural
+2 _MREL Natural
+0 @F75@ FAM
+1 HUSB @P97@
+1 WIFE @P96@
+1 CHIL @P90@
+2 _FREL Natural
+2 _MREL Natural
+0 @F76@ FAM
+1 HUSB @P86@
+1 WIFE @P85@
+1 CHIL @P79@
+2 _FREL Natural
+2 _MREL Natural
+0 @F77@ FAM
+1 HUSB @P206@
+1 WIFE @P57@
+1 CHIL @P207@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P208@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 30 Oct 1893
+2 PLAC Allegheny, Pennsylvania, USA
+0 @F78@ FAM
+1 HUSB @P210@
+1 WIFE @P209@
+1 CHIL @P219@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P217@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P206@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P221@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P215@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P214@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P212@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P213@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P220@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P216@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P211@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P218@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 21 Jan 1866
+0 @F79@ FAM
+1 HUSB @P66@
+1 WIFE @P52@
+1 CHIL @P67@
+2 _FREL Natural
+2 _MREL Natural
+0 @F80@ FAM
+1 HUSB @P69@
+1 WIFE @P68@
+1 CHIL @P60@
+2 _FREL Natural
+2 _MREL Natural
+0 @F81@ FAM
+1 HUSB @P124@
+1 WIFE @P34@
+0 @F82@ FAM
+1 HUSB @P125@
+1 WIFE @P34@
+1 DIV Divorced first husband, Bill. Kept Divorce secret from her mother, a staunch Catholic.
+1 MARR
+2 DATE 1941
+2 PLAC Sydney, NSW, Australia
+0 @F83@ FAM
+1 WIFE @P25@
+1 CHIL @P15@
+2 _MREL Natural
+0 @F84@ FAM
+1 HUSB @P37@
+1 CHIL @P29@
+2 _FREL Natural
+0 @F85@ FAM
+1 WIFE @P118@
+1 CHIL @P117@
+2 _MREL Natural
+0 @F86@ FAM
+1 HUSB @P123@
+1 CHIL @P121@
+2 _FREL Natural
+0 @R-1795457720@ REPO
+1 NAME iOS Application
+1 ADDR http://www.iOS Application
+1 NOTE
+0 @R-1368635382@ REPO
+1 NAME Ancestry.com
+0 @S-1782924844@ SOUR
+1 REPO @R-1795457720@
+1 TITL Liverpool, Lancashire, England, Catholic Baptisms, 1802-1906
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations, Inc., 2011.Original data - Liverpool Catholic Church Registers. Liverpool, England: Liverpool Record Office.Original data: Liverpool Catho
+2 CONC lic Church Registers. Liverpool, England: Liverpool Reco
+1 NOTE
+1 _APID 1,2180::0
+0 @S-1779049742@ SOUR
+1 REPO @R-1795457720@
+1 TITL 1911 England Census
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations, Inc., 2011.Original data - Census Returns of England and Wales, 1911. Kew, Surrey, England: The National Archives of the UK (TNA), 1911. D
+2 CONC ata imaged from the National Archives, London, England.
+1 NOTE
+1 _APID 1,2352::0
+0 @S-1779046225@ SOUR
+1 REPO @R-1795457720@
+1 TITL 1901 England Census
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations Inc, 2005.Original data - Census Returns of England and Wales, 1901. Kew, Surrey, England: The National Archives, 1901. Data imaged from th
+2 CONC e National Archives, London, England. The National Archi
+1 NOTE
+1 _APID 1,7814::0
+0 @S-1779045097@ SOUR
+1 REPO @R-1795457720@
+1 TITL 1871 England Census
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations Inc, 2004.Original data - Census Returns of England and Wales, 1871. Kew, Surrey, England: The National Archives of the UK (TNA): Public Re
+2 CONC cord Office (PRO), 1871. Data imaged from the National A
+1 NOTE
+1 _APID 1,7619::0
+0 @S-1778056582@ SOUR
+1 REPO @R-1795457720@
+1 TITL Ireland, Births and Baptisms, 1620-1911
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT: Ancestry.com Operations, Inc., 2011.Original data - Ireland Births and Baptisms, 1620–1911. Salt Lake City, Utah: Family Search.Original data: Ireland Births and Bapt
+2 CONC isms, 1620–1911. Index. Salt Lake City, Utah: Family Searc
+1 NOTE
+1 _APID 1,2533::0
+0 @S-1775634381@ SOUR
+1 REPO @R-1795457720@
+1 TITL England & Wales, FreeBMD Birth Index, 1837-1915
+1 AUTH FreeBMD
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations Inc, 2006.Original data - General Register Office. England and Wales Civil Registration Indexes. London, England: General Register Office
+2 CONC . © Crown copyright. Published by permission of the Contro
+1 NOTE
+1 _APID 1,8912::0
+0 @S-1774684240@ SOUR
+1 REPO @R-1795457720@
+1 TITL Liverpool, Lancashire, England, Catholic Confirmations, 1813-1920
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations, Inc., 2011.Original data - Liverpool Catholic Church Registers. Liverpool, England: Liverpool Record Office.Original data: Liverpool Catho
+2 CONC lic Church Registers. Liverpool, England: Liverpool Reco
+1 NOTE
+1 _APID 1,2187::0
+0 @S-1774651822@ SOUR
+1 REPO @R-1795457720@
+1 TITL England & Wales, FreeBMD Death Index: 1837-1915
+1 AUTH FreeBMD
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations Inc, 2006.Original data - General Register Office. England and Wales Civil Registration Indexes. London, England: General Register Office
+2 CONC . © Crown copyright. Published by permission of the Contro
+1 NOTE
+1 _APID 1,8914::0
+0 @S-1049292710@ SOUR
+1 REPO @R-1368635382@
+1 TITL UK, Outward Passenger Lists, 1890-1960
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2997::0
+0 @S-1049292674@ SOUR
+1 REPO @R-1368635382@
+1 TITL New South Wales, Australia, Assisted Immigrant Passenger Lists, 1828-1896
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,1204::0
+0 @S-1049145133@ SOUR
+1 REPO @R-1368635382@
+1 TITL Web: UK, WWII Medals Issued to Merchant Seamen, 1939-1945
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,70692::0
+0 @S-1049145124@ SOUR
+1 REPO @R-1368635382@
+1 TITL Web: Netherlands, GenealogieOnline Trees Index, 1000-2015
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,9289::0
+0 @S-1049145115@ SOUR
+1 REPO @R-1368635382@
+1 TITL Australia, Convict Index, 1788-1868
+1 AUTH Reakes, J., comp
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,5517::0
+0 @S-1049145114@ SOUR
+1 REPO @R-1368635382@
+1 TITL New South Wales, Australia, Convict Indents, 1788-1842
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2024::0
+0 @S-1049145110@ SOUR
+1 REPO @R-1368635382@
+1 TITL Web: International, Find A Grave Index
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,70699::0
+0 @S-1049145086@ SOUR
+1 REPO @R-1368635382@
+1 TITL Australia, World War II Military Service Records, 1939-1945
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,61172::0
+0 @S658572880@ SOUR
+1 REPO @R-1368635382@
+1 TITL Ireland, Selections of Catholic Parish Baptisms, 1742-1881
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2195::0
+0 @S658572987@ SOUR
+1 TITL Public Member Trees
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 NOTE Family trees submitted by Ancestry members.
+0 @S658573030@ SOUR
+1 REPO @R-1368635382@
+1 TITL Ireland, Catholic Parish Registers, 1655-1915
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,61039::0
+0 @S658667580@ SOUR
+1 REPO @R-1368635382@
+1 TITL Australia and New Zealand, Find A Grave Index, 1800s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,60528::0
+0 @S658667589@ SOUR
+1 REPO @R-1368635382@
+1 TITL Web: Ireland, Census, 1911
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,70564::0
+0 @S658909944@ SOUR
+1 REPO @R-1368635382@
+1 TITL Web: Ireland, Census, 1901
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,70667::0
+0 TRLR

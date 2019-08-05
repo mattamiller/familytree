@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dse-java-driver-1.8.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/dse/dse-6.8.0.20190711-LABS/dse-java-driver-1.8.2.20190711-LABS" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/dse/dse-6.8.0.20190711-LABS/dse-java-driver-1.8.2.20190711-LABS/apidocs" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/dse/dse-6.8.0.20190711-LABS/dse-java-driver-1.8.2.20190711-LABS" recursive="false" />
+  </library>
+</component>
