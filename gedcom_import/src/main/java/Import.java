@@ -85,10 +85,17 @@ public class Import<date> {
 
         try {
             String str = person.getFormattedName();
-//            System.out.println("This is the object format: " + person);
-//            Ralph /Robinson/, child of Hattie /Moore/ and Ralph B /Robinson/, b.abt 1915
-            String last_name = str.substring( 0, str.indexOf(" /"));
-            String first_name = str.substring(str.indexOf(" /"), str.indexOf("/,"));
+            String first_name;
+            String last_name;
+            if (str.indexOf("/") != -1){
+                first_name = str.substring( 0, str.indexOf(" /"));
+                last_name = str.substring(str.indexOf(" /"), str.indexOf("/,"));
+            }else{
+                last_name = str.substring(0, str.indexOf(", "));
+                String first_name_long = str.substring(str.indexOf(","));
+                first_name = first_name_long.substring(0,str.indexOf(", "));
+            }
+
 //            System.out.println(last_name);
             session.executeGraph("g.addV('person')"
                             +".property('tree_id', tree_id)"
@@ -99,7 +106,7 @@ public class Import<date> {
                             +".property('sex', sex)"
                             +".property('GEDCOM_xref_id', gedcom_id)"
                             +".property('birthdate', birthdate)"
-                            ,
+                    ,
                     ImmutableMap.<String, Object>builder()
                             .put("tree_id", treeId)
                             .put("last_name", last_name)
@@ -115,7 +122,7 @@ public class Import<date> {
 
                             .build());
         } catch (Exception ex) {
-            System.out.println("Individual: " + ex.toString() + person.toString());
+            System.out.println("Person: " + ex.toString() + person.toString());
         }
 //        for (PersonalName n : person.getNames()) {
 //
