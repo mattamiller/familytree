@@ -5,24 +5,21 @@ import com.datastax.driver.dse.graph.GraphProtocol;
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.Iterables;
 import org.gedcom4j.exception.GedcomParserException;
-import org.gedcom4j.model.Family;
-import org.gedcom4j.model.Gedcom;
-import org.gedcom4j.model.Individual;
-import org.gedcom4j.model.IndividualReference;
+import org.gedcom4j.model.*;
 import org.gedcom4j.parser.GedcomParser;
+import java.util.Date;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.Date;
 import java.util.UUID;
 
-public class Import<date> {
+public class import_simple <date> {
     public static void main(String[] args) {
         DseSession session = ConnectToDSE();
         GedcomParser gp = new GedcomParser();
 
         //Get all the files in the samples directory and iterate over them
-        File dir = new File("./samples");
+        File dir = new File("./samples/original_samples/");
         File[] files = dir.listFiles();
         for (File file: files) {
             if (!file.getName().startsWith(".")) {
@@ -85,68 +82,42 @@ public class Import<date> {
 
         UUID id = UUID.randomUUID();
 
+
         try {
             String full_name = person.getFormattedName();
+            System.out.println(full_name);
             String first_name;
             String last_name;
 
+            first_name = full_name.substring( 0, full_name.indexOf(" /"));
+            last_name = full_name.substring(full_name.indexOf(" /"), full_name.indexOf("/,"));
 
-                // Logic for firstname /lastname/
-            if (full_name.indexOf("/") != -1){
-                first_name = full_name.substring( 0, full_name.indexOf("/"));
-                int first_name_size = first_name.length();
-                last_name = full_name.substring(first_name_size, full_name.indexOf("/"));
-
-                // Logic for if the name field starts with "Living" rather than an actual name
-            }else if(full_name.startsWith("Living")){
-                first_name = "Null - Loader Generated";
-                last_name = "Null - Loader Generated";
-                System.out.println("Data entered for name: '"+full_name+"'");
-                System.out.println("No valid name data for this record --- Null has been entered");
-                System.out.println();
-                
-                // Logic for lastname, firstname
-            }else{
-                last_name = full_name.substring(0, full_name.indexOf(","));
-                int last_name_size = last_name.length();
-                first_name = full_name.substring(last_name_size + 1);
-            }
-
-//            System.out.println(last_name);
             session.executeGraph("g.addV('person')"
-                            +".property('tree_id', tree_id)"
-                            +".property('last_name', last_name)"
-                            +".property('unique_id', unique_id)"
-                            +".property('full_name', full_name)"
-                            +".property('first_name', first_name)"
-                            +".property('sex', sex)"
-                            +".property('GEDCOM_xref_id', gedcom_id)"
-                            +".property('birthdate', birthdate)"
-                    ,
-                    ImmutableMap.<String, Object>builder()
-                            .put("tree_id", treeId)
-                            .put("last_name", last_name)
-                            .put("unique_id", id)
-                            .put("full_name", person.getFormattedName() != null ?
-                                    person.getFormattedName() : "")
-                            .put("first_name", first_name)
-                            .put("sex", person.getSex() != null ?
-                                    person.getSex().toString() : "")
-                            .put("gedcom_id", person.getXref().toString())
+                        +".property('tree_id', tree_id)"
+                        +".property('last_name', last_name)"
+                        +".property('unique_id', unique_id)"
+                        +".property('full_name', full_name)"
+                        +".property('first_name', first_name)"
+                        +".property('sex', sex)"
+                        +".property('GEDCOM_xref_id', gedcom_id)"
+                        +".property('birthdate', birthdate)"
+                ,
+                ImmutableMap.<String, Object>builder()
+                        .put("tree_id", treeId)
+                        .put("last_name", last_name)
+                        .put("unique_id", id)
+                        .put("full_name", person.getFormattedName() != null ?
+                                person.getFormattedName().toString() : "")
+                        .put("first_name", first_name)
+                        .put("sex", person.getSex() != null ?
+                                person.getSex().toString() : "")
+                        .put("gedcom_id", person.getXref().toString())
 //                          .put("birthdate", person.getEventsOfType(IndividualEventType.BIRTH))
-                            .put("birthdate", new Date().toString())
+                        .put("birthdate", new Date().toString())
 
-                            .build());
+                        .build());
         } catch (Exception ex) {
             System.out.println("Person: " + ex.toString() + person.toString());
-            String str = person.getFormattedName();
-            System.out.println(str);
-            System.out.println(str.length());
-//            try {
-//                TimeUnit.SECONDS.sleep(3);
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
         }
 //        for (PersonalName n : person.getNames()) {
 //
