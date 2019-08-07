@@ -95,7 +95,7 @@ public class Import<date> {
             if (full_name.indexOf("/") != -1){
                 first_name = full_name.substring( 0, full_name.indexOf("/"));
                 int first_name_size = first_name.length();
-                last_name = full_name.substring(first_name_size, full_name.indexOf("/"));
+                last_name = full_name.substring(first_name_size +1, full_name.length()-1);
 
                 // Logic for if the name field starts with "Living" rather than an actual name
             }else if(full_name.startsWith("Living")){
@@ -104,7 +104,7 @@ public class Import<date> {
                 System.out.println("Data entered for name: '"+full_name+"'");
                 System.out.println("No valid name data for this record --- Null has been entered");
                 System.out.println();
-                
+
                 // Logic for lastname, firstname
             }else{
                 last_name = full_name.substring(0, full_name.indexOf(","));
